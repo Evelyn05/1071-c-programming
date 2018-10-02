@@ -3,7 +3,7 @@ void prchar(char C,int n){
     for(int i=1;i<=n;i++)
     printf("%c",C);
 }
-
+int i;
 void drawRect(int height,int width,int filled)
 {
     if(filled){
@@ -12,18 +12,16 @@ void drawRect(int height,int width,int filled)
            printf("\n");
         }
     }else{
-        for(int j=1; j<=width; j++)}{
+        for(int j=1; j<=width; j++){
             if(i==1 || i==height || j==1 || j==width)
-                printf("*");
+               prchar('*',i);
 
-        {
-
-            else
-                printf(" ");
-        }
-        printf("\n");
-
-    }
+        }else{
+            printf("*");
+            prcharf(' ',i-2);
+            printf("*");
+            }
+            printf("\n");
 }
 
 void drawVertri(int height,int type,int filled)
@@ -44,7 +42,7 @@ void drawVertri(int height,int type,int filled)
                             prchar('*',i);
                         }else{
                          printf("*");
-                         prchar(' '.i-2);
+                         prchar(' ',i-2);
                          printf("*");
                         }
                         printf("\n");
