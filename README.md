@@ -14,7 +14,7 @@ math.cpp
   sec 
 *week04
   menu.cpp
-  
+  menu2.cpp 
 *week05
   menu3.cpp
 *myself
