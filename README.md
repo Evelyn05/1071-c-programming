@@ -18,3 +18,6 @@ math.cpp
   menu3.cpp
 *myself
   
+*week06
+ Daypass.cpp
+ sort.cpp
