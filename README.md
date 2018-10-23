@@ -1,6 +1,7 @@
 # 1071-c-programming
 
-*week01
+## week01
+*
 Welcome.cpp
 tempcovert.cpp
 math.cpp
@@ -33,3 +34,6 @@ math.cpp
 *week07
   rsum.cpp
   rsumodd.cpp
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMzNzk1ODg5OV19
+-->
