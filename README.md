@@ -29,3 +29,7 @@ math.cpp
 *week06
  Daypass.cpp
  sort.cpp
+
+*week07
+  rsum.cpp
+  rsumodd.cpp
