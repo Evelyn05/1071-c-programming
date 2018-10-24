@@ -34,6 +34,9 @@ math.cpp
 *week07
   rsum.cpp
   rsumodd.cpp
+  fib.cpp
+  r gcd.cpp
+  hanoi.cpp
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwNTE0Mjk3ODEsLTMzNzk1ODg5OV19
 -->
