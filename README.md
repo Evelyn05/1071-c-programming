@@ -192,8 +192,16 @@
     [rsum程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/rsum.cpp)
   * **rsumodd.cpp**
     >**Note**---
-    //n is odd 
-     sumodd1(n) = 1+3+5+...(2n-1) // sumodd2(n) = 1+3+5+...n
+    n is odd 
+     sumodd1(n) = 1+3+5+...(2n-1) 
+     sumodd2(n) = 1+3+5+...n
+     
+     >Enter n: 5
+      sumodd1(5) = 25; 
+      sumodd2(5) = 9;
+      
+
+
   * **fib.cpp**
   * **r gcd.cpp**
   * **hanoi.cpp**
@@ -201,8 +209,8 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MTI1Mzc3LDM1OTk0MTk0LDU2NzIwMz
-IyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3
-MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxND
-I5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTk3NzYzMDAwMywzNTk5NDE5NCw1NjcyMD
+MyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQs
+NzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MT
+QyOTc4MSwtMzM3OTU4ODk5XX0=
 -->
