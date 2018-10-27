@@ -116,6 +116,10 @@
     
   * menu2.cpp 
       >**Note**--- 
+      Main Menu 
+      >    1. Rectangle 
+      >     2. Vertical Triangle  
+    >3.Tsosceles Triangle 4. Exit => 1
   
 ## week05
   * **menu3.cpp**
@@ -136,7 +140,7 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzYyNDU1Myw1NjcyMDMyMiwtMjEzOD
+eyJoaXN0b3J5IjpbMTEzMzIzMTQ2OSw1NjcyMDMyMiwtMjEzOD
 E0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3
 LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMz
 M3OTU4ODk5XX0=
