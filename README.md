@@ -303,10 +303,12 @@
    >火鍋店推出優惠活動，只要10人(含)以上，將可享有8折優惠，原價每人300元。
    
    >**output**
-		   >Please Enter number:10
-		   >Total is 2400:
+   > 
+	Please Enter number:10
+	Total is 2400:
+[滿額折扣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E6%BB%BF%E9%A1%8D%E6%89%93%E6%8A%98.cpp)   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI1NzcyNjcsMzU5OTQxOTQsNTY3Mj
+eyJoaXN0b3J5IjpbLTE4NzkzODkwNTMsMzU5OTQxOTQsNTY3Mj
 AzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0
 LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNT
 E0Mjk3ODEsLTMzNzk1ODg5OV19
