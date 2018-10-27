@@ -29,6 +29,7 @@
 
   * leap.cpp
     >**Note**---
+    1st
     Enter year: 2000 
     Year 2000 is a leap year.
     Enter year: 2018 Year 
@@ -76,6 +77,7 @@
       [ BMI程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/BMI.cpp)
   * leap迴圈.cpp
     >**Note**--- 
+    
   * sec迴圈.cpp 
   
 ## week04
@@ -101,8 +103,8 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5NjU0MTc3LC0yMTM4MTQ0ODM0LDE1Mz
-QxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkx
-NCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ
-==
+eyJoaXN0b3J5IjpbLTIwMDczMTkyMzcsLTIxMzgxNDQ4MzQsMT
+UzNDEwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3NywxNjk5NTc5
+OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLTMzNzk1ODg5OV
+19
 -->
