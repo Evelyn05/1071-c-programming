@@ -342,13 +342,13 @@
 	  
 [加減乘除程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E5%8A%A0%E6%B8%9B%E4%B9%98%E9%99%A4.cpp)     
 * **模擬題2**
->**Note**---輸入2個身高後可ㄉㄠ
+>**Note**---輸入2個身高後，可得知介於2身高間的所有最適體重。
 
  >**output**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzUxNDU4MzQsLTEzMTk2OTA3NjYsLT
-E4NzkzODkwNTMsMzU5OTQxOTQsNTY3MjAzMjIsLTIxMzgxNDQ4
-MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3NywxNj
-k5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLTMzNzk1
-ODg5OV19
+eyJoaXN0b3J5IjpbMTgwMjk5MTc1MywtMTMxOTY5MDc2NiwtMT
+g3OTM4OTA1MywzNTk5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgz
+NCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LDE2OT
+k1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4
+ODk5XX0=
 -->
