@@ -334,11 +334,16 @@
   >**output**
  
 	  Enter two integers:25 10
-	  2510=35
+	  25+10=35
 	  25-10=15
 	  25*10=250
+	  25/10=2
+	  25%10=5
+	  
+[加減乘除程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E5%8A%A0%E6%B8%9B%E4%B9%98%E9%99%A4.cpp)     
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4ODA2NTg5LC0xODc5Mzg5MDUzLDM1OT
+eyJoaXN0b3J5IjpbNTU1Mjk3NzU2LC0xODc5Mzg5MDUzLDM1OT
 k0MTk0LDU2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAs
 MTQyNDY1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MD
 Q5NDEyLC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ==
