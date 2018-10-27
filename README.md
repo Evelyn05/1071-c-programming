@@ -8,10 +8,12 @@
 
 
 * tempcovert.cpp
+* math.cpp
 * 
-math.cpp
 
-*week02
+
+## week02
+
   leap.cpp
   sec.cpp
   
@@ -21,7 +23,7 @@ math.cpp
   leap迴圈
   sec 
   
-*week04
+## week04
   menu.cpp
   menu2.cpp 
   
@@ -43,6 +45,6 @@ math.cpp
   r gcd.cpp
   hanoi.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDgyMzA0OSwtOTA0MDQ5NDEyLC0yMD
-UxNDI5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTEzODMwMDMwNzEsLTkwNDA0OTQxMiwtMj
+A1MTQyOTc4MSwtMzM3OTU4ODk5XX0=
 -->
