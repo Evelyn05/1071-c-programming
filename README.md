@@ -93,7 +93,16 @@
     
   * sec迴圈.cpp 
     >**Note**--- 
-    Enter seconds: 20000 20000 seconds = 05:33:20 Enter seconds: 10000 10000 seconds = 02:46:40 Enter seconds: 30000 30000 seconds = 08:20:00 Enter seconds: 100000 100000 seconds = 27:46:40 Enter seconds: -1
+    Enter seconds: 20000 
+    20000 seconds = 05:33:20 
+    Enter seconds: 10000 
+    10000 seconds = 02:46:40 
+    Enter seconds: 30000 
+    30000 seconds = 08:20:00 
+    Enter seconds: 100000 
+    100000 seconds = 27:46:40 
+    Enter seconds: -1
+    [sec迴圈程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/sec%E8%BF%B4%E5%9C%88.cpp)
   
 ## week04
   menu.cpp
@@ -118,7 +127,7 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODM5NzE4NSw1NjcyMDMyMiwtMjEzOD
+eyJoaXN0b3J5IjpbMTQ0NTkzNzQxMyw1NjcyMDMyMiwtMjEzOD
 E0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3
 LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMz
 M3OTU4ODk5XX0=
