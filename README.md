@@ -289,10 +289,13 @@
   >**Note**---
   >輸入3個整數，會得到加總的答案。
   
+  >**output**
+  >Please Enter first integer:3
+  >Please Enter second integer:
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDEzNDIzNCwzNTk5NDE5NCw1NjcyMD
-MyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQs
-NzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MT
-QyOTc4MSwtMzM3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbMzIwODE1ODkyLDM1OTk0MTk0LDU2NzIwMz
+IyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3
+MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxND
+I5NzgxLC0zMzc5NTg4OTldfQ==
 -->
