@@ -145,6 +145,7 @@
 ## week05
   * **menu3.cpp**
        >**Note**---
+       
        Main Menu 
         1. leap
         2. timeconvert
@@ -154,41 +155,44 @@
 ## week06
  * **Daypass.cpp**
      >**Note**---
-     Enter year: 2018
-     Enter month and day: 10 16 
-     289 days passed since 1/1/2018 
-     Continue (Y/N)? y 
-     Enter year: 2020 
-     Enter month and day: 3 1 
-     61 days passed since 1/1/2020 
-     Continue (Y/N)? y 
-     Enter year: 2100 
-     Enter month and day: 3 1 
-     60 days passed since 1/1/2100
-     Continue (Y/N)? n
+     
+	     Enter year: 2018
+	     Enter month and day: 10 16 
+	     289 days passed since 1/1/2018 
+	     Continue (Y/N)? y 
+	     Enter year: 2020 
+	     Enter month and day: 3 1 
+	     61 days passed since 1/1/2020 
+	     Continue (Y/N)? y 
+	     Enter year: 2100 
+	     Enter month and day: 3 1 
+	     60 days passed since 1/1/2100
+	     Continue (Y/N)? n
     [Daypass程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W06/Daypass.cpp)   
  * **sort.cpp**
    >**Note**---
    >由**小**排到**大**
-   >original: 34 78 12 9 87 66 88 99 56 11
-   >sorting : 9 11 12 34 56 66 78 87 88 99
-   > [sort程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W06/sort.cpp)
+ 
+	   original: 34 78 12 9 87 66 88 99 56 11
+	   sorting : 9 11 12 34 56 66 78 87 88 99
+    [sort程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W06/sort.cpp)
 ## week07
   * **rsum.cpp**
     >**Note**---
-    Enter n: 10 
-    sum(10)=55 
-    10 
-    9 
-    8 
-    7 
-    6 
-    5 
-    4 
-    3 
-    2 
-    1 
-    rsum(10)=55
+    
+	    Enter n: 10 
+	    sum(10)=55 
+	    10 
+	    9 
+	    8 
+	    7 
+	    6 
+	    5 
+	    4 
+	    3 
+	    2 
+	    1 
+	    rsum(10)=55
     [rsum程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/rsum.cpp)
   * **rsumodd.cpp**
     >**Note**---
@@ -196,12 +200,12 @@
      sumodd1(n) = 1+3+5+...(2n-1) 
      sumodd2(n) = 1+3+5+...n
      
-     Enter n: 5
-      sumodd1(5) = 25; 
-      sumodd2(5) = 9;
-      Enter n: 9 
-      sumodd1(9) = 81; 
-      sumodd2(9) = 25;
+	     Enter n: 5
+	      sumodd1(5) = 25; 
+	      sumodd2(5) = 9;
+	      Enter n: 9 
+	      sumodd1(9) = 81; 
+	      sumodd2(9) = 25;
        [rsumodd程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/rsumodd.cpp)
   * **fib.cpp**
      >**Note**---
@@ -231,7 +235,7 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjM4MjQwMywzNTk5NDE5NCw1NjcyMD
+eyJoaXN0b3J5IjpbMTcyNzg4MDU3MSwzNTk5NDE5NCw1NjcyMD
 MyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQs
 NzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MT
 QyOTc4MSwtMzM3OTU4ODk5XX0=
