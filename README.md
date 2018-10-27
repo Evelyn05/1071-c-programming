@@ -342,10 +342,13 @@
 	  
 [加減乘除程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E5%8A%A0%E6%B8%9B%E4%B9%98%E9%99%A4.cpp)     
 * **模擬題2**
-  >**output**
+>**Note**---輸入2個身高後可ㄉㄠ
+
+ >**output**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk2OTA3NjYsLTE4NzkzODkwNTMsMz
-U5OTQxOTQsNTY3MjAzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0
-MCwxNDI0NjUzOTk0LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MD
-QwNDk0MTIsLTIwNTE0Mjk3ODEsLTMzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbLTE4MzUxNDU4MzQsLTEzMTk2OTA3NjYsLT
+E4NzkzODkwNTMsMzU5OTQxOTQsNTY3MjAzMjIsLTIxMzgxNDQ4
+MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3NywxNj
+k5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLTMzNzk1
+ODg5OV19
 -->
