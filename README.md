@@ -172,8 +172,11 @@
    >由**小**排到**大**
    >original: 34 78 12 9 87 66 88 99 56 11
    >sorting : 9 11 12 34 56 66 78 87 88 99
+   > [sort程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W06/sort.cpp)
 ## week07
   * **rsum.cpp**
+    >**Note**---
+    
   * **rsumodd.cpp**
   * **fib.cpp**
   * **r gcd.cpp**
@@ -182,8 +185,8 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzQyNzEzMCwzNTk5NDE5NCw1NjcyMD
-MyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQs
-NzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MT
-QyOTc4MSwtMzM3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbLTE5NzExMDI1MTEsMzU5OTQxOTQsNTY3Mj
+AzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0
+LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNT
+E0Mjk3ODEsLTMzNzk1ODg5OV19
 -->
