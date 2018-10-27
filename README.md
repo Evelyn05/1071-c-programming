@@ -150,9 +150,10 @@
         2. timeconvert
          3. Exit
          =>
-       [menu2程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W04/Menu2.cpp)  
+       [menu3程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W05/Menu3.cpp)  
 ## week06
  * **Daypass.cpp**
+ 
  * **sort.cpp**
 
 ## week07
@@ -165,8 +166,8 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjI2NDQ2NTEsNTY3MjAzMjIsLTIxMz
-gxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3
-NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLT
-MzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbMzU5OTQxOTQsNTY3MjAzMjIsLTIxMzgxND
+Q4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3Nywx
+Njk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLTMzNz
+k1ODg5OV19
 -->
