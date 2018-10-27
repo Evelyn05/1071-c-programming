@@ -10,39 +10,42 @@
 
 
 * **tempcovert.cpp**
-  >****---
-  >Enter temperature in C: 20.5
-  >20.5 C=68.9 F
-  >Enter temperature in F: 80.5
-  >80.5 F= 26.9 C
-  >[tempcovert程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W01/tempconvert.cpp)
+  >**output**
+  
+	  Enter temperature in C: 20.5
+	  20.5 C=68.9 F
+	  Enter temperature in F: 80.5
+	  80.5 F= 26.9 C
+  [tempcovert程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W01/tempconvert.cpp)
 
 
 * **math.cpp**
-  > **Note**---
-  > Enter a b c: 2 -3 1
-  >  For equation 2 x^2 -3 x + 1 =0, two roots are 
-  > X1 = 1.0 
-  > X2 = 0.5
-  > [math程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W01/math.cpp)
+  > **output**---
+  
+	   Enter a b c: 2 -3 1
+	   For equation 2 x^2 -3 x + 1 =0, two roots are 
+	   X1 = 1.0 
+	   X2 = 0.5
+   [math程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W01/math.cpp)
 
 
 ## week02
 
   * **leap.cpp**
-    >**Note**---
-    1st
-    Enter year: 2000 
-    Year 2000 is a leap year.
-     2nd
-    Enter year: 2018 Year 
-    2018 is not a leap year.
-     3rd
-    Enter year: 2020
-    Year 2020 is a leap year.
-    4th
-    Enter year: 2100
-    Year 2100 is not a leap year.
+    >**output**
+    
+	    1st
+	    Enter year: 2000 
+	    Year 2000 is a leap year.
+	     2nd
+	    Enter year: 2018 Year 
+	    2018 is not a leap year.
+	     3rd
+	    Enter year: 2020
+	    Year 2020 is a leap year.
+	    4th
+	    Enter year: 2100
+	    Year 2100 is not a leap year.
     [ leap程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W02/leap.cpp)
     
   * sec.cpp
@@ -310,7 +313,7 @@
 	Total is 2400:
 [滿額折扣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E6%BB%BF%E9%A1%8D%E6%89%93%E6%8A%98.cpp)   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTQ5ODI2MSwtMTg3OTM4OTA1MywzNT
+eyJoaXN0b3J5IjpbMjAyMDc2OTMzOCwtMTg3OTM4OTA1MywzNT
 k5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQw
 LDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwND
 A0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX0=
