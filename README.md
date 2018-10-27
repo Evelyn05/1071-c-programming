@@ -357,7 +357,7 @@
 	Bye! Coding by 406530120
 [模擬題2程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C2.cpp)
 * **模擬題3**
->**Note**---輸入高後
+>**Note**---輸入高後，會出現2個對稱實心三角形。
 
 >**output**
 
@@ -365,10 +365,12 @@
     
 	Enter height (-1 to exit): -1
 	Bye! coding by 406530120
+[模擬題3程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C3.cpp)
+* **模擬題4**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Njc5NjkyMiw5Mzg0MzQyNjMsLTEzMT
-k2OTA3NjYsLTE4NzkzODkwNTMsMzU5OTQxOTQsNTY3MjAzMjIs
-LTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMz
-QwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3
-ODEsLTMzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbMjczMzkxNjI5LDkzODQzNDI2MywtMTMxOT
+Y5MDc2NiwtMTg3OTM4OTA1MywzNTk5NDE5NCw1NjcyMDMyMiwt
+MjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzND
+A5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4
+MSwtMzM3OTU4ODk5XX0=
 -->
