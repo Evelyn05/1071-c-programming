@@ -26,7 +26,7 @@ Enter temperature in F: 80.5
 ## week02
 
   * leap.cpp
-  >
+    >**Note**---
   * sec.cpp
   
 ## week03
@@ -58,6 +58,6 @@ Enter temperature in F: 80.5
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDg1OTQ0OSwtOTA0MDQ5NDEyLC0yMD
+eyJoaXN0b3J5IjpbMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMD
 UxNDI5NzgxLC0zMzc5NTg4OTldfQ==
 -->
