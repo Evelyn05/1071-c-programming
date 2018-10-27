@@ -49,7 +49,15 @@
 ## week03
   * sum.cpp
     >**Note**---
-    
+    Enter n1 n2: 1 10
+    sum(1,10) = 55
+    Enter n1 n2: 5 10 
+    sum(5,10) = 45
+    Enter n1 n2: 10 100 
+    sum(10,100) = 5005 
+    Enter n1 n2: 50 100 
+    sum(50,100) = 3825 
+    Enter n1 n2: -1 -1
     
   * BMI.cpp
   * leap迴圈.cpp
@@ -78,7 +86,7 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTMwMDk2OCwxNDI0NjUzOTk0LDczMz
-QwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3
-ODEsLTMzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbMTUyODA0NzEwLDE0MjQ2NTM5OTQsNzMzND
+A5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4
+MSwtMzM3OTU4ODk5XX0=
 -->
