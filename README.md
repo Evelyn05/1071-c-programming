@@ -61,6 +61,8 @@
    [ sum程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/sum.cpp)  
     
   * BMI.cpp
+    >**Note**---
+    
   * leap迴圈.cpp
   * sec迴圈.cpp 
   
@@ -87,7 +89,7 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTA5MjY0NywxNDI0NjUzOTk0LDczMz
+eyJoaXN0b3J5IjpbMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMz
 QwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3
 ODEsLTMzNzk1ODg5OV19
 -->
