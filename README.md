@@ -302,9 +302,11 @@
    >**Note**---
    >火鍋店推出優惠活動，只要10人(含)以上，將可享有8折優惠，原價每人300元。
    
-   >**
+   >**output**
+		   >Please Enter number:10
+		   >Total is 2400:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDMzMDUzNzgsMzU5OTQxOTQsNTY3Mj
+eyJoaXN0b3J5IjpbLTEwMzI1NzcyNjcsMzU5OTQxOTQsNTY3Mj
 AzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0
 LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNT
 E0Mjk3ODEsLTMzNzk1ODg5OV19
