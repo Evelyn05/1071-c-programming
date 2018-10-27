@@ -209,7 +209,7 @@
 	      sumodd2(9) = 25;
        [rsumodd程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/rsumodd.cpp)
   * **fib.cpp**
-     >**Note**---
+     >**output**---
      
 	    fib(3) = 2 
 	    fib(10) = 55 
@@ -232,13 +232,15 @@
 		rgcd(48,48) = 48
 		gcd(48,48) = 48
 		
-    [r gcd程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/fib.cpp)
+    [r gcd程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/r%20gcd.cpp)
   * **hanoi.cpp**
+    >**output**---
+	    
 
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTAzMDE2ODksMzU5OTQxOTQsNTY3Mj
+eyJoaXN0b3J5IjpbLTE2NzI3MjE3NzAsMzU5OTQxOTQsNTY3Mj
 AzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0
 LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNT
 E0Mjk3ODEsLTMzNzk1ODg5OV19
