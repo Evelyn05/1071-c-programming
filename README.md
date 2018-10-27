@@ -2,13 +2,15 @@
 
 ## week01
 * **Welcome.cpp**
-  >**Note**---印出Welcome to C programming.
-  >			 My name is Evelyn.
-[Welcome程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W01/welcome.cpp)
+  >**output**
+  
+	  Welcome to C programming.
+	  My name is Evelyn.
+  [Welcome程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W01/welcome.cpp)
 
 
 * **tempcovert.cpp**
-  >**Note**---
+  >****---
   >Enter temperature in C: 20.5
   >20.5 C=68.9 F
   >Enter temperature in F: 80.5
@@ -308,8 +310,8 @@
 	Total is 2400:
 [滿額折扣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E6%BB%BF%E9%A1%8D%E6%89%93%E6%8A%98.cpp)   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzkzODkwNTMsMzU5OTQxOTQsNTY3Mj
-AzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0
-LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNT
-E0Mjk3ODEsLTMzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbLTU1MTQ5ODI2MSwtMTg3OTM4OTA1MywzNT
+k5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQw
+LDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwND
+A0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX0=
 -->
