@@ -78,7 +78,7 @@
     若BMI介於30~35，印出中度肥胖;
      若BMI>35，印出重度肥胖;
       [ BMI程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/BMI.cpp)
-  * **leap迴圈.cpp*
+  * **leap迴圈.cpp**
     >**Note**--- 
     Enter year: 2000 Year 
     2000 is a leap year. 
@@ -91,7 +91,7 @@
      Enter year: -1
      [ leap迴圈程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/leap%20year%E8%BF%B4%E5%9C%88.cpp)
     
-  * sec迴圈.cpp 
+  * **sec迴圈.cpp** 
     >**Note**--- 
     Enter seconds: 20000 
     20000 seconds = 05:33:20 
@@ -110,26 +110,26 @@
   * menu2.cpp 
   
 ## week05
-  * menu3.cpp
+  * **menu3.cpp**
   
  
  
 ## week06
- * Daypass.cpp
- * sort.cpp
+ * **Daypass.cpp**
+ * **sort.cpp**
 
 ## week07
-  * rsum.cpp
-  * rsumodd.cpp
-  * fib.cpp
-  * r gcd.cpp
-  * hanoi.cpp
+  * **rsum.cpp**
+  * **rsumodd.cpp**
+  * **fib.cpp**
+  * **r gcd.cpp**
+  * **hanoi.cpp**
 ## myself
-  * 3個數字之和.cpp
+  * **3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNTkyMTgyLDU2NzIwMzIyLC0yMTM4MT
-Q0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3Nzcs
-MTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMz
-c5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTEwMzMwMzcxMjAsNTY3MjAzMjIsLTIxMz
+gxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3
+NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLT
+MzNzk1ODg5OV19
 -->
