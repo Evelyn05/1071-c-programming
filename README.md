@@ -30,21 +30,22 @@
 ## week05
   * menu3.cpp
   
- *myself
-  3個數字之和.cpp
-  滿額折扣.cpp
+ 
  
 ## week06
- Daypass.cpp
- sort.cpp
+ * Daypass.cpp
+ * sort.cpp
 
 ## week07
-  rsum.cpp
-  rsumodd.cpp
-  fib.cpp
-  r gcd.cpp
-  hanoi.cpp
+  * rsum.cpp
+  * rsumodd.cpp
+  * fib.cpp
+  * r gcd.cpp
+  * hanoi.cpp
+## myself
+  3個數字之和.cpp
+  滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTQ2MjkzOSwtOTA0MDQ5NDEyLC0yMD
+eyJoaXN0b3J5IjpbMTI4ODQ0MzUwMywtOTA0MDQ5NDEyLC0yMD
 UxNDI5NzgxLC0zMzc5NTg4OTldfQ==
 -->
