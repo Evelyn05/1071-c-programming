@@ -141,6 +141,10 @@
 ## week05
   * **menu3.cpp**
        >**Note**---
+       Main Menu 
+        1. leap
+        2. timeconvert
+         3. Exit
        
   
  
@@ -159,8 +163,8 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE4NDA3NzEsNTY3MjAzMjIsLTIxMz
-gxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3
-NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLT
-MzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbMjE0NzY4NTAzLDU2NzIwMzIyLC0yMTM4MT
+Q0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3Nzcs
+MTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMz
+c5NTg4OTldfQ==
 -->
