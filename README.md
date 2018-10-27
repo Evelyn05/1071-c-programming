@@ -8,15 +8,17 @@
 
 
 * tempcovert.cpp
-  >**Note**---Enter temperature in C: 20.5
- 20.5 C=68.9 F
+  >**Note**---
+  >Enter temperature in C: 20.5
+ >20.5 C=68.9 F
 Enter temperature in F: 80.5
 80.5 F= 26.9 C
 [tempcovert程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W01/tempconvert.cpp)
 
 
 * math.cpp
-  > **Note**---Enter a b c: 2 -3 1
+  > **Note**---
+  > Enter a b c: 2 -3 1
   >  For equation 2 x^2 -3 x + 1 =0, two roots are 
   > X1 = 1.0 
   > X2 = 0.5
@@ -27,6 +29,8 @@ Enter temperature in F: 80.5
 
   * leap.cpp
     >**Note**---
+    Enter year: 2000 Year 2000 is a leap year.
+    
   * sec.cpp
   
 ## week03
@@ -58,6 +62,6 @@ Enter temperature in F: 80.5
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMD
-UxNDI5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbNjQxNzA5NzU4LDE2OTk1Nzk5MTQsLTkwND
+A0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX0=
 -->
