@@ -218,7 +218,8 @@
     n is odd 
      sumodd1(n) = 1+3+5+...(2n-1) 
      sumodd2(n) = 1+3+5+...n
->
+     
+    >**output**
      
 	     Enter n: 5
 	      sumodd1(5) = 25; 
@@ -226,9 +227,9 @@
 	      Enter n: 9 
 	      sumodd1(9) = 81; 
 	      sumodd2(9) = 25;
-       [rsumodd程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/rsumodd.cpp)
+    [rsumodd程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/rsumodd.cpp)
   * **fib.cpp**
-     >**output**---
+     >**output**
      
 	    fib(3) = 2 
 	    fib(10) = 55 
@@ -238,6 +239,8 @@
     >**Note**---
     rgcd(a,b) using recursion
     gcd(a,b) using iteration (for loop)
+    
+    >**output**
     
 	    rgcd(48,126) = 6 
 	    gcd(48,126) = 6
@@ -253,7 +256,7 @@
 		
     [r gcd程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/r%20gcd.cpp)
   * **hanoi.cpp**
-    >**output**---
+    >**output**
     
 		    tower1(n,from,aux,to) 
 		    A -> C 
@@ -327,8 +330,8 @@
 	Total is 2400:
 [滿額折扣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E6%BB%BF%E9%A1%8D%E6%89%93%E6%8A%98.cpp)   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzMwMjA1NDIsLTE4NzkzODkwNTMsMz
-U5OTQxOTQsNTY3MjAzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0
-MCwxNDI0NjUzOTk0LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MD
-QwNDk0MTIsLTIwNTE0Mjk3ODEsLTMzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbMjAwNzg3OTQ4LC0xODc5Mzg5MDUzLDM1OT
+k0MTk0LDU2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAs
+MTQyNDY1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MD
+Q5NDEyLC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ==
 -->
