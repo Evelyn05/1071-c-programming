@@ -63,7 +63,7 @@
   * BMI.cpp
     >**Note**---
     輸入身高體重
-    若BMI<18.5，印出體重過輕;若BMI介於18.5~24
+    若BMI<18.5，印出體重過輕;若BMI介於18.5~24,印出體重正常;bji4
     
   * leap迴圈.cpp
   * sec迴圈.cpp 
@@ -91,7 +91,7 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTIyMjIyMywxNTM0MTA0ODQwLDE0Mj
+eyJoaXN0b3J5IjpbMjAyNDIyNTQwMywxNTM0MTA0ODQwLDE0Mj
 Q2NTM5OTQsNzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQx
 MiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX0=
 -->
