@@ -135,7 +135,8 @@
 	     Enter height and type: 
      [menu程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W04/Menu.cpp)
     
-  * menu2.cpp 
+  * *
+  
   >**Note**---各2種type，空心和實心
   
    >**output**
@@ -341,7 +342,7 @@
 	Too large!
 	Please Enter your guess: 21
 	Congraturations!
-
+[猜數字程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E7%8C%9C%E6%95%B8%E5%AD%97.cpp)
  * **加減乘除.cpp**
   >**output**
  
@@ -466,10 +467,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY1OTkzOTQsLTE5NDIwODU4ODMsLT
-EwMzE1MzI5MjMsMTU5MTg4ODU0OCwyNDUxNzM0ODYsOTM4NDM0
-MjYzLC0xMzE5NjkwNzY2LC0xODc5Mzg5MDUzLDM1OTk0MTk0LD
-U2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1
-Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC
-0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbNzE1OTY4NzE4LC0xOTQyMDg1ODgzLC0xMD
+MxNTMyOTIzLDE1OTE4ODg1NDgsMjQ1MTczNDg2LDkzODQzNDI2
+MywtMTMxOTY5MDc2NiwtMTg3OTM4OTA1MywzNTk5NDE5NCw1Nj
+cyMDMyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5
+OTQsNzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMj
+A1MTQyOTc4MSwtMzM3OTU4ODk5XX0=
 -->
