@@ -362,7 +362,11 @@
 >**output**
 
 	Enter height (-1 to exit): 5
-    
+	    *  *
+	   **  **
+	  ***  ***
+	 ****  ****
+	*****  *****
 	Enter height (-1 to exit): -1
 	Bye! coding by 406530120
 [模擬題3程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C3.cpp)
@@ -378,13 +382,80 @@
 	Bye! coding by 406530120
 [模擬題4程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C4.cpp)
 * **模擬題5**
+>**output**
 
+	(1) Arithmetic Computation
+	(2) List BMI ranges
+	(3) Draw Four Vertical Triangles
+	(4) encode(n)
+	(5) decode(n)
+	(6) Exit
+	1
+	Enter two integers: 25 10
+	25+10=35
+	25-10=15
+	25*10=250
+	25/10=2
+	25%10=5
+	(1) Arithmetic Computation
+	(2) List BMI ranges
+	(3) Draw Four Vertical Triangles
+	(4) encode(n)
+	(5) decode(n)
+	(6) Exit
+	2
+	Enter height: 170 175
+	 170 cm=53.5 ~ 69.4(Kg)
+	 171 cm=54.1 ~ 70.2(Kg)
+	 172 cm=54.7 ~ 71.0(Kg)
+	 173 cm=55.4 ~ 71.8(Kg)
+	 174 cm=56.0 ~ 72.7(Kg)
+	 175 cm=56.7 ~ 73.5(Kg)
+	(1) Arithmetic Computation
+	(2) List BMI ranges
+	(3) Draw Four Vertical Triangles
+	(4) encode(n)
+	(5) decode(n)
+	(6) Exit
+	3
+	Enter height: 5
+	    *  *
+	   **  **
+	  ***  ***
+	 ****  ****
+	*****  *****
+	(1) Arithmetic Computation
+	(2) List BMI ranges
+	(3) Draw Four Vertical Triangles
+	(4) encode(n)
+	(5) decode(n)
+	(6) Exit
+	4
+	Enter N: 1234
+	encode(1234)=3462
+	(1) Arithmetic Computation
+	(2) List BMI ranges
+	(3) Draw Four Vertical Triangles
+	(4) encode(n)
+	(5) decode(n)
+	(6) Exit
+	5
+	Enter n: 3462
+	decode(3462)=1234
+	(1) Arithmetic Computation
+	(2) List BMI ranges
+	(3) Draw Four Vertical Triangles
+	(4) encode(n)
+	(5) decode(n)
+	(6) Exit
+	6
+	Bye! Coding by 406530120
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1MTczNDg2LDkzODQzNDI2MywtMTMxOT
-Y5MDc2NiwtMTg3OTM4OTA1MywzNTk5NDE5NCw1NjcyMDMyMiwt
-MjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzND
-A5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4
-MSwtMzM3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbMTU5NzEzMzAwMCwyNDUxNzM0ODYsOTM4ND
+M0MjYzLC0xMzE5NjkwNzY2LC0xODc5Mzg5MDUzLDM1OTk0MTk0
+LDU2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyND
+Y1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEy
+LC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ==
 -->
