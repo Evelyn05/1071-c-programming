@@ -155,7 +155,18 @@
  * **Daypass.cpp**
      >**Note**---
      Enter year: 2018
-      Enter month and day: 10 16 289 days passed since 1/1/2018 Continue (Y/N)? y Enter year: 2020 Enter month and day: 3 1 61 days passed since 1/1/2020 Continue (Y/N)? y Enter year: 2100 Enter month and day: 3 1 60 days passed since 1/1/2100 Continue (Y/N)? n
+     Enter month and day: 10 16 
+     289 days passed since 1/1/2018 
+     Continue (Y/N)? y 
+     Enter year: 2020 
+     Enter month and day: 3 1 
+     61 days passed since 1/1/2020 
+     Continue (Y/N)? y 
+     Enter year: 2100 
+     Enter month and day: 3 1 
+     60 days passed since 1/1/2100
+     Continue (Y/N)? n
+    [menu3程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W05/Menu3.cpp)   
  * **sort.cpp**
 
 ## week07
@@ -168,8 +179,8 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg4ODYxNjEsMzU5OTQxOTQsNTY3Mj
-AzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0
-LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNT
-E0Mjk3ODEsLTMzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbMjQwNjQ3NDA2LDM1OTk0MTk0LDU2NzIwMz
+IyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3
+MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxND
+I5NzgxLC0zMzc5NTg4OTldfQ==
 -->
