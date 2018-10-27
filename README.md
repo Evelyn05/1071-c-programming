@@ -2,7 +2,7 @@
 
 ## week01
 * Welcome.cpp
-  >Note---印出
+  >Note---印出Welcome to C programming.
 
 tempcovert.cpp
 math.cpp
@@ -39,6 +39,6 @@ math.cpp
   r gcd.cpp
   hanoi.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDE5ODMxMSwtMjA1MTQyOTc4MSwtMz
-M3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbLTkxNjA3MCwtMjA1MTQyOTc4MSwtMzM3OT
+U4ODk5XX0=
 -->
