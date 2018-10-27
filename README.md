@@ -20,15 +20,15 @@
 ## week03
   * sum.cpp
   * BMI.cpp
-  * leap迴圈
-  sec 
+  * leap迴圈.cpp
+  * sec.cpp 
   
 ## week04
   menu.cpp
   menu2.cpp 
   
 ## week05
-  menu3.cpp
+  * menu3.cpp
   
  *myself
   3個數字之和.cpp
@@ -45,6 +45,6 @@
   r gcd.cpp
   hanoi.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTUzMTcwOTUsLTkwNDA0OTQxMiwtMj
-A1MTQyOTc4MSwtMzM3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbLTI1MTQ2MjkzOSwtOTA0MDQ5NDEyLC0yMD
+UxNDI5NzgxLC0zMzc5NTg4OTldfQ==
 -->
