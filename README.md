@@ -107,6 +107,9 @@
 ## week04
   * **menu.cpp**
     >**Note**---   
+    Main Menu 
+    1. Rectangle 2. Vertical Triangle 3. Exit => 1
+    2.  Enter height and width: 5 8 ******** * * * * * * ********
   * menu2.cpp 
   
 ## week05
@@ -125,11 +128,11 @@
   * **r gcd.cpp**
   * **hanoi.cpp**
 ## myself
-  * **3個數字之和.cpp
-  * 滿額折扣.cpp
+  * **3個數字之和.cpp**
+  * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzMwMzcxMjAsNTY3MjAzMjIsLTIxMz
-gxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3
-NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLT
-MzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbMTMxMTQ2NDIyOCw1NjcyMDMyMiwtMjEzOD
+E0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3
+LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMz
+M3OTU4ODk5XX0=
 -->
