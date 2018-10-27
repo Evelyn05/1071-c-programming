@@ -189,8 +189,9 @@
     2 
     1 
     rsum(10)=55
-    
+    [rsum程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/rsum.cpp)
   * **rsumodd.cpp**
+  
   * **fib.cpp**
   * **r gcd.cpp**
   * **hanoi.cpp**
@@ -198,7 +199,7 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ1NDE0NTIsMzU5OTQxOTQsNTY3Mj
+eyJoaXN0b3J5IjpbLTE4MDc3Mjc0MjUsMzU5OTQxOTQsNTY3Mj
 AzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0
 LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNT
 E0Mjk3ODEsLTMzNzk1ODg5OV19
