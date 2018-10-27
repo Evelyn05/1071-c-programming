@@ -284,6 +284,7 @@
 		       A -> C 
 		       A -> B 
 		       C -> B
+	   [hanoi程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/r%20gcd.cpp)     
 
   * **3個數字之和.cpp**
   >**Note**---
@@ -295,10 +296,11 @@
 	  Please Enter second integer:5
 	  Please Enter third integer:8
 	  Sum is 16.
+	  
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQyNDEyLDM1OTk0MTk0LDU2NzIwMz
-IyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3
-MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxND
-I5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbMTYwMTU2MTgxOSwzNTk5NDE5NCw1NjcyMD
+MyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQs
+NzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MT
+QyOTc4MSwtMzM3OTU4ODk5XX0=
 -->
