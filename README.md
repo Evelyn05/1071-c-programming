@@ -205,19 +205,19 @@
        [rsumodd程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/rsumodd.cpp)
   * **fib.cpp**
      >**Note**---
-     fib(3) = 2 
-     fib(10) = 55 
-     fib(30) = 832040
+	    fib(3) = 2 
+	    fib(10) = 55 
+		fib(30) = 832040
      [fib程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/fib.cpp)
   * **r gcd.cpp**
     >**Note**---
     rgcd(a,b) using recursion
     gcd(a,b) using iteration (for loop)
-rgcd(48,128) = 16
-gcd(48,128) = 16
+	rgcd(48,128) = 16
+	gcd(48,128) = 16
 
-rgcd(48,144) = 48
-gcd(48,144) = 48
+		rgcd(48,144) = 48
+		gcd(48,144) = 48
 
 rgcd(48,48) = 48
 gcd(48,48) = 48
@@ -226,7 +226,7 @@ gcd(48,48) = 48
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTc2MDM0MSwzNTk5NDE5NCw1NjcyMD
+eyJoaXN0b3J5IjpbLTEzMzQ5MzE2MSwzNTk5NDE5NCw1NjcyMD
 MyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQs
 NzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MT
 QyOTc4MSwtMzM3OTU4ODk5XX0=
