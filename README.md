@@ -345,8 +345,11 @@
 >**Note**---輸入2個身高後，可得知介於2身高間的所有最適體重。
 
  >**output**
+ 
+	 Enter height(-1 to exit):170 175
+	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjk5MTc1MywtMTMxOTY5MDc2NiwtMT
+eyJoaXN0b3J5IjpbMTU4OTUxNjAwNSwtMTMxOTY5MDc2NiwtMT
 g3OTM4OTA1MywzNTk5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgz
 NCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LDE2OT
 k1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4
