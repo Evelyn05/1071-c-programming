@@ -116,9 +116,11 @@
   
 ## week04
   * **menu.cpp**
+    >**Note**---三角形有4種type
+    
     >**output**
     
-	    Main Menu  (三角形有4種type)
+	    Main Menu 
 	    1. Rectangle
 	    2.  Vertical Triangle 
 	    3. Exit 
@@ -134,7 +136,7 @@
      [menu程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W04/Menu.cpp)
     
   * menu2.cpp 
-  >**Note**---(各2種type，空心和實心
+  >**Note**---各2種type，空心和實心
   
    >**output**
       
@@ -153,12 +155,13 @@
 	    4. Exit
 	    =>
 	      Enter height and width: 5 8 0
-    [menu2程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W04/Menu2.cpp)
+	      
+   [menu2程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W04/Menu2.cpp)
     
   
 ## week05
   * **menu3.cpp**
-       >**output**---
+       >**output**
        
 	       Main Menu 
 	        1. leap
@@ -321,8 +324,8 @@
 	Total is 2400:
 [滿額折扣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E6%BB%BF%E9%A1%8D%E6%89%93%E6%8A%98.cpp)   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTM1MTcwMywtMTg3OTM4OTA1MywzNT
-k5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQw
-LDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwND
-A0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbLTEzNDkxMjQ3NzYsLTE4NzkzODkwNTMsMz
+U5OTQxOTQsNTY3MjAzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0
+MCwxNDI0NjUzOTk0LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MD
+QwNDk0MTIsLTIwNTE0Mjk3ODEsLTMzNzk1ODg5OV19
 -->
