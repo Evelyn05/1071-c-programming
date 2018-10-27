@@ -166,9 +166,10 @@
      Enter month and day: 3 1 
      60 days passed since 1/1/2100
      Continue (Y/N)? n
-    [menu3程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W05/Menu3.cpp)   
+    [Daypass程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W06/Daypass.cpp)   
  * **sort.cpp**
-
+   >**Note**---
+   >
 ## week07
   * **rsum.cpp**
   * **rsumodd.cpp**
@@ -179,7 +180,7 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNjQ3NDA2LDM1OTk0MTk0LDU2NzIwMz
+eyJoaXN0b3J5IjpbMTk1ODQ5MDcyLDM1OTk0MTk0LDU2NzIwMz
 IyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3
 MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxND
 I5NzgxLC0zMzc5NTg4OTldfQ==
