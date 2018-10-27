@@ -235,6 +235,7 @@
     [r gcd程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/r%20gcd.cpp)
   * **hanoi.cpp**
     >**output**---
+    
 		    tower1(n,from,aux,to) 
 		    A -> C 
 		    A -> B
@@ -278,17 +279,18 @@
 		       tower6(n,aux,to,from) 
 		       C -> B 
 		       C -> A
-		        B -> A
-		        C -> B 
-		        A -> C 
-		        A -> B 
-		        C -> B
+		       B -> A
+		       C -> B 
+		       A -> C 
+		       A -> B 
+		       C -> B
 
   * **3個數字之和.cpp**
+  >**Note**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA2MDIwODUsMzU5OTQxOTQsNTY3Mj
-AzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0
-LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNT
-E0Mjk3ODEsLTMzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbMTI5MTkxOTMxOSwzNTk5NDE5NCw1NjcyMD
+MyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQs
+NzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MT
+QyOTc4MSwtMzM3OTU4ODk5XX0=
 -->
