@@ -346,12 +346,21 @@
 
  >**output**
  
-	 Enter height(-1 to exit):170 175
+	 Enter height(-1 to exit): 170 175
+	 170 cm=53.5 ~ 69.4(Kg)
+	 171 cm=54.1 ~ 70.2(Kg)
+	 172 cm=54.7 ~ 71.0(Kg)
+	 173 cm=55.4 ~ 71.8(Kg)
+	 174 cm=56.0 ~ 72.7(Kg)
+	 175 cm=56.7 ~ 73.5(Kg)
+	Enter height(-1 to exit): -1 -1
+	Bye! Coding by 406530120
+[模擬題2程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C2.cpp)
 	 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTUxNjAwNSwtMTMxOTY5MDc2NiwtMT
-g3OTM4OTA1MywzNTk5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgz
-NCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LDE2OT
-k1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4
-ODk5XX0=
+eyJoaXN0b3J5IjpbODQzMzY0OTIzLC0xMzE5NjkwNzY2LC0xOD
+c5Mzg5MDUzLDM1OTk0MTk0LDU2NzIwMzIyLC0yMTM4MTQ0ODM0
+LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3NzcsMTY5OT
+U3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMzc5NTg4
+OTldfQ==
 -->
