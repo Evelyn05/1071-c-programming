@@ -8,7 +8,12 @@
 
 
 * tempcovert.cpp
->**Note**---
+>**Note**---/*Enter temperature in C: 20.5
+20.5 C=68.9 F
+Enter temperature in F: 80.5
+80.5 F= 26.9 C
+
+*/
 * math.cpp
 
 
@@ -47,6 +52,6 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1MjAwMDg0LC05MDQwNDk0MTIsLTIwNT
-E0Mjk3ODEsLTMzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbLTg4ODMwMDQyNywtOTA0MDQ5NDEyLC0yMD
+UxNDI5NzgxLC0zMzc5NTg4OTldfQ==
 -->
