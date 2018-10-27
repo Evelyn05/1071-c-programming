@@ -123,20 +123,22 @@
 	    2.  Vertical Triangle 
 	    3. Exit 
 	    =>
-	     Enter height and width: 5 8
+	     Enter height and width: 
     
-     Main Menu
-    1. Rectangle
-    2.  Vertical Triangle 
-    3. Exit 
-    =>
-     Enter height and type: 
+	     Main Menu
+	    1. Rectangle
+	    2.  Vertical Triangle 
+	    3. Exit 
+	    =>
+	     Enter height and type: 
      [menu程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W04/Menu.cpp)
     
   * menu2.cpp 
-      >**Note**--- 
+  >**Note**---(各2種type，空心和實心
+  
+   >**output**
       
-	    Main Menu (各2種type，空心和實心)
+	    Main Menu 
 	    1. Rectangle
 	    2.  Vertical Triangle 
 	    3. Tsosceles Triangle
@@ -156,7 +158,7 @@
   
 ## week05
   * **menu3.cpp**
-       >**Note**---
+       >**output**---
        
 	       Main Menu 
 	        1. leap
@@ -319,8 +321,8 @@
 	Total is 2400:
 [滿額折扣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E6%BB%BF%E9%A1%8D%E6%89%93%E6%8A%98.cpp)   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwMzM1NDg5LC0xODc5Mzg5MDUzLDM1OT
-k0MTk0LDU2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAs
-MTQyNDY1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MD
-Q5NDEyLC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbMTExMTM1MTcwMywtMTg3OTM4OTA1MywzNT
+k5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQw
+LDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwND
+A0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX0=
 -->
