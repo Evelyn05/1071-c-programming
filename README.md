@@ -57,7 +57,8 @@
     sum(10,100) = 5005 
     Enter n1 n2: 50 100 
     sum(50,100) = 3825 
-    Enter n1 n2: -1 -1
+    Enter n1 n2(-1 -1 to exit): -1 -1
+   [ sum程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/sum.cpp)  
     
   * BMI.cpp
   * leap迴圈.cpp
@@ -86,7 +87,7 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODA0NzEwLDE0MjQ2NTM5OTQsNzMzND
-A5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4
-MSwtMzM3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbMTM3OTA5MjY0NywxNDI0NjUzOTk0LDczMz
+QwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3
+ODEsLTMzNzk1ODg5OV19
 -->
