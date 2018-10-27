@@ -235,35 +235,60 @@
     [r gcd程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/r%20gcd.cpp)
   * **hanoi.cpp**
     >**output**---
-	    tower1(n,from,aux,to) 
-	    A -> C 
-	    A -> B
-	    C -> B 
-	    A -> C 
-	    B -> A 
-	    B -> C 
-	    A -> C 
-	    tower2(n,to,aux,from)
-	     C -> A
-	      C -> B 
-	      A -> B 
-	      C -> A 
-	      B -> C 
-	      B -> A 
-	      C -> A 
-	      tower3(n,from,to,aux) 
-	      A -> B 
-	      A -> C 
-	      B -> C 
-	      A -> B 
-	      C -> A 
-	      C -> B A -> B tower4(n,to,from,aux) B -> A B -> C A -> C B -> A C -> B C -> A B -> A tower5(n,aux,from,to) B -> C B -> A C -> A B -> C A -> B A -> C B -> C tower6(n,aux,to,from) C -> B C -> A B -> A C -> B A -> C A -> B C -> B
+		    tower1(n,from,aux,to) 
+		    A -> C 
+		    A -> B
+		    C -> B 
+		    A -> C 
+		    B -> A 
+		    B -> C 
+		    A -> C 
+		    tower2(n,to,aux,from)
+		     C -> A
+		      C -> B 
+		      A -> B 
+		      C -> A 
+		      B -> C 
+		      B -> A 
+		      C -> A 
+		      tower3(n,from,to,aux) 
+		      A -> B 
+		      A -> C 
+		      B -> C 
+		      A -> B 
+		      C -> A 
+		      C -> B 
+		      A -> B 
+		      tower4(n,to,from,aux)
+		       B -> A 
+		       B -> C 
+		       A -> C 
+		       B -> A 
+		       C -> B 
+		       C -> A 
+		       B -> A 
+		       tower5(n,aux,from,to) 
+		       B -> C 
+		       B -> A 
+		       C -> A 
+		       B -> C 
+		       A -> B 
+		       A -> C 
+		       B -> C 
+		       tower6(n,aux,to,from) 
+		       C -> B 
+		       C -> A
+		        B -> A
+		        C -> B 
+		        A -> C 
+		        A -> B 
+		        C -> B
 
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxODUyNzk1LDM1OTk0MTk0LDU2NzIwMz
-IyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3
-MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxND
-I5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTE2NDA2MDIwODUsMzU5OTQxOTQsNTY3Mj
+AzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0
+LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNT
+E0Mjk3ODEsLTMzNzk1ODg5OV19
 -->
