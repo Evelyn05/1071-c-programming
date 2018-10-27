@@ -69,7 +69,9 @@
     若BMI介於27~30，印出輕度肥胖;
     若BMI介於30~35，印出中度肥胖;
      若BMI>35，印出重度肥胖;
+      [ BMI程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/BMI.cpp)
   * leap迴圈.cpp
+    >**Note**--- 
   * sec迴圈.cpp 
   
 ## week04
@@ -95,7 +97,8 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxND
-I0NjUzOTk0LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0
-MTIsLTIwNTE0Mjk3ODEsLTMzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbMTk4MzE1MDMyMiwtMjEzODE0NDgzNCwxNT
+M0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LDE2OTk1Nzk5
+MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX
+0=
 -->
