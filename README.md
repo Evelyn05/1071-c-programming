@@ -33,8 +33,10 @@
     Year 2000 is a leap year.
     Enter year: 2018 Year 
     2018 is not a leap year.
+    [ leap程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W02/leap.cpp)
     
   * sec.cpp
+    >**Note**---
   
 ## week03
   * sum.cpp
@@ -65,6 +67,7 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwND
-A0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbMTQyNDY1Mzk5NCw3MzM0MDk3NzcsMTY5OT
+U3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMzc5NTg4
+OTldfQ==
 -->
