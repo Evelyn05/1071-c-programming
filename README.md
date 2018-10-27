@@ -117,7 +117,7 @@
     >1. Rectangle
     >2.  Vertical Triangle 
     >3. Exit => 2
-    > Enter height and type: 5 1
+    > Enter height and type: 5 1(三角形有4種type)
      [menu程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W04/Menu.cpp)
     
   * menu2.cpp 
@@ -129,6 +129,7 @@
     >4. Exit => 1
     >  Enter height and width: 5 8 0
     [menu2程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W04/Menu2.cpp)
+    
   
 ## week05
   * **menu3.cpp**
@@ -151,8 +152,8 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODM1MTgzLDU2NzIwMzIyLC0yMTM4MT
-Q0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3Nzcs
-MTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMz
-c5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTE0NDMzMDM3MTgsNTY3MjAzMjIsLTIxMz
+gxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3
+NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLT
+MzNzk1ODg5OV19
 -->
