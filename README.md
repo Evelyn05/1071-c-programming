@@ -300,10 +300,12 @@
  
   * **滿額折扣.cpp**
    >**Note**---
-   >火鍋店推出優惠活動，只要
+   >火鍋店推出優惠活動，只要10人(含)以上，將可享有8折優惠，原價每人300元。
+   
+   >**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDA4MTc5NSwzNTk5NDE5NCw1NjcyMD
-MyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQs
-NzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MT
-QyOTc4MSwtMzM3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbLTExMDMzMDUzNzgsMzU5OTQxOTQsNTY3Mj
+AzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0
+LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNT
+E0Mjk3ODEsLTMzNzk1ODg5OV19
 -->
