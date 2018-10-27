@@ -42,7 +42,7 @@
   * sec.cpp
     >**Note**---Enter seconds: 20000 
     20000 seconds = 05:33:20
-   [ sec程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W02/leap.cpp)
+   [ sec程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W02/sec.cpp)
      
   
 ## week03
@@ -74,7 +74,7 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc3NTk4NjYsMTQyNDY1Mzk5NCw3Mz
-M0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5
-NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbMTM5ODQyMDksMTQyNDY1Mzk5NCw3MzM0MD
+k3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5Nzgx
+LC0zMzc5NTg4OTldfQ==
 -->
