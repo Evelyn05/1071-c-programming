@@ -124,21 +124,22 @@
     
   * menu2.cpp 
       >**Note**--- 
-      >Main Menu (各2種type，空心和實心)
-    >1. Rectangle
-    >2.  Vertical Triangle 
-     >3. Tsosceles Triangle
-    >4. Exit 
-    =>
-    >  Enter height and width: 
+      
+	    Main Menu (各2種type，空心和實心)
+	    1. Rectangle
+	    2.  Vertical Triangle 
+	    3. Tsosceles Triangle
+	    4. Exit 
+	    =>
+	     Enter height and width: 
     
-    >Main Menu 
-    >1. Rectangle
-    >2.  Vertical Triangle 
-     >3. Tsosceles Triangle
-    >4. Exit
-    =>
-    >  Enter height and width: 5 8 0
+	    Main Menu 
+	    1. Rectangle
+	    2.  Vertical Triangle 
+	    3. Tsosceles Triangle
+	    4. Exit
+	    =>
+      Enter height and width: 5 8 0
     [menu2程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W04/Menu2.cpp)
     
   
@@ -146,11 +147,11 @@
   * **menu3.cpp**
        >**Note**---
        
-       Main Menu 
-        1. leap
-        2. timeconvert
-         3. Exit
-         =>
+	       Main Menu 
+	        1. leap
+	        2. timeconvert
+	        3. Exit
+	         =>
        [menu3程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W05/Menu3.cpp)  
 ## week06
  * **Daypass.cpp**
@@ -235,8 +236,8 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzg4MDU3MSwzNTk5NDE5NCw1NjcyMD
-MyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQs
-NzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MT
-QyOTc4MSwtMzM3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbNzcwNzg4NDg1LDM1OTk0MTk0LDU2NzIwMz
+IyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3
+MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxND
+I5NzgxLC0zMzc5NTg4OTldfQ==
 -->
