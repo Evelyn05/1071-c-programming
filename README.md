@@ -122,7 +122,7 @@
     
   * menu2.cpp 
       >**Note**--- 
-      >Main Menu 
+      >Main Menu (各2種type，空心和
     >1. Rectangle
     >2.  Vertical Triangle 
      >3. Tsosceles Triangle
@@ -159,8 +159,8 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA0NjUzNTcsNTY3MjAzMjIsLTIxMz
-gxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3
-NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLT
-MzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbNDU4NzUyMzQ4LDU2NzIwMzIyLC0yMTM4MT
+Q0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3Nzcs
+MTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMz
+c5NTg4OTldfQ==
 -->
