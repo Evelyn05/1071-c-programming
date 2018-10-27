@@ -357,13 +357,16 @@
 	Bye! Coding by 406530120
 [模擬題2程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C2.cpp)
 * **模擬題3**
+>**Note**---輸入高後
+
 >**output**
-Enter height (-1 to exit): 5
+
+	Enter height (-1 to exit): 5
     
 	Enter height (-1 to exit): -1
 	Bye! coding by 406530120
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTMyODY1OCw5Mzg0MzQyNjMsLTEzMT
+eyJoaXN0b3J5IjpbMTg4Njc5NjkyMiw5Mzg0MzQyNjMsLTEzMT
 k2OTA3NjYsLTE4NzkzODkwNTMsMzU5OTQxOTQsNTY3MjAzMjIs
 LTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMz
 QwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3
