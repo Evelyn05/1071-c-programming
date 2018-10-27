@@ -2,7 +2,7 @@
 
 ## week01
 * Welcome.cpp
-
+ote
 tempcovert.cpp
 math.cpp
 
@@ -38,5 +38,6 @@ math.cpp
   r gcd.cpp
   hanoi.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE0Mjk3ODEsLTMzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbODc5NTY1OTUwLC0yMDUxNDI5NzgxLC0zMz
+c5NTg4OTldfQ==
 -->
