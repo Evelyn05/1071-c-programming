@@ -154,7 +154,7 @@
 	    3. Tsosceles Triangle
 	    4. Exit
 	    =>
-	      Enter height and width: 5 8 0
+	      Enter height and width: 
 	      
    [menu2程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W04/Menu2.cpp)
     
@@ -454,9 +454,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTg4ODU0OCwyNDUxNzM0ODYsOTM4ND
-M0MjYzLC0xMzE5NjkwNzY2LC0xODc5Mzg5MDUzLDM1OTk0MTk0
-LDU2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyND
-Y1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEy
-LC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTEwMzE1MzI5MjMsMTU5MTg4ODU0OCwyND
+UxNzM0ODYsOTM4NDM0MjYzLC0xMzE5NjkwNzY2LC0xODc5Mzg5
+MDUzLDM1OTk0MTk0LDU2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1Mz
+QxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkx
+NCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ
+==
 -->
