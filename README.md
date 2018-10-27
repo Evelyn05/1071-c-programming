@@ -1,13 +1,13 @@
 # 1071-c-programming
 
 ## week01
-* Welcome.cpp
+* **Welcome.cpp**
   >**Note**---印出Welcome to C programming.
   >			 My name is Evelyn.
 [Welcome程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W01/welcome.cpp)
 
 
-* tempcovert.cpp
+* **tempcovert.cpp**
   >**Note**---
   >Enter temperature in C: 20.5
   >20.5 C=68.9 F
@@ -16,7 +16,7 @@
   >[tempcovert程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W01/tempconvert.cpp)
 
 
-* math.cpp
+* **math.cpp**
   > **Note**---
   > Enter a b c: 2 -3 1
   >  For equation 2 x^2 -3 x + 1 =0, two roots are 
@@ -27,7 +27,7 @@
 
 ## week02
 
-  * leap.cpp
+  * **leap.cpp**
     >**Note**---
     1st
     Enter year: 2000 
@@ -51,7 +51,7 @@
      
   
 ## week03
-  * sum.cpp
+  * **sum.cpp**
     >**Note**---
     1st
     Enter n1 n2: 1 10
@@ -78,7 +78,7 @@
     若BMI介於30~35，印出中度肥胖;
      若BMI>35，印出重度肥胖;
       [ BMI程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/BMI.cpp)
-  * leap迴圈.cpp
+  * **leap迴圈.cpp*
     >**Note**--- 
     Enter year: 2000 Year 
     2000 is a leap year. 
@@ -105,7 +105,7 @@
     [sec迴圈程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/sec%E8%BF%B4%E5%9C%88.cpp)
   
 ## week04
-  * menu.cpp
+  * **menu.cpp**
     >**Note**---   
   * menu2.cpp 
   
@@ -128,8 +128,8 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzIyMTMzMTIsNTY3MjAzMjIsLTIxMz
-gxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3
-NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLT
-MzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbMjUwNTkyMTgyLDU2NzIwMzIyLC0yMTM4MT
+Q0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3Nzcs
+MTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMz
+c5NTg4OTldfQ==
 -->
