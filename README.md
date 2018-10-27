@@ -112,9 +112,10 @@
     >2.  Vertical Triangle 
     >3. Exit => 1
     > Enter height and width: 5 8
-     [menu程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/sec%E8%BF%B4%E5%9C%88.cpp)
+     [menu程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W04/Menu.cpp)
     
   * menu2.cpp 
+      >**Note**--- 
   
 ## week05
   * **menu3.cpp**
@@ -135,8 +136,8 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzM5MzEyLDU2NzIwMzIyLC0yMTM4MT
-Q0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3Nzcs
-MTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMz
-c5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTM0NzYyNDU1Myw1NjcyMDMyMiwtMjEzOD
+E0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3
+LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMz
+M3OTU4ODk5XX0=
 -->
