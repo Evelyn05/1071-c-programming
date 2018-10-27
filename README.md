@@ -196,7 +196,7 @@
      sumodd1(n) = 1+3+5+...(2n-1) 
      sumodd2(n) = 1+3+5+...n
      
-     >Enter n: 5
+     Enter n: 5
       sumodd1(5) = 25; 
       sumodd2(5) = 9;
       Enter n: 9 
@@ -205,6 +205,7 @@
        [rsumodd程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/rsumodd.cpp)
   * **fib.cpp**
      >**Note**---
+     
 	    fib(3) = 2 
 	    fib(10) = 55 
 		fib(30) = 832040
@@ -213,20 +214,24 @@
     >**Note**---
     rgcd(a,b) using recursion
     gcd(a,b) using iteration (for loop)
-	rgcd(48,128) = 16
-	gcd(48,128) = 16
+    
+	    rgcd(48,126) = 6 
+	    gcd(48,126) = 6
+    
+	    rgcd(48,128) = 16
+		gcd(48,128) = 16
 
 		rgcd(48,144) = 48
 		gcd(48,144) = 48
 
-rgcd(48,48) = 48
-gcd(48,48) = 48
+		rgcd(48,48) = 48
+		gcd(48,48) = 48
   * **hanoi.cpp**
 
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ5MzE2MSwzNTk5NDE5NCw1NjcyMD
+eyJoaXN0b3J5IjpbMTk3NjM4MjQwMywzNTk5NDE5NCw1NjcyMD
 MyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQs
 NzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MT
 QyOTc4MSwtMzM3OTU4ODk5XX0=
