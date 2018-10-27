@@ -105,8 +105,9 @@
     [sec迴圈程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/sec%E8%BF%B4%E5%9C%88.cpp)
   
 ## week04
-  menu.cpp
-  menu2.cpp 
+  * menu.cpp
+    >**Note**---   
+  * menu2.cpp 
   
 ## week05
   * menu3.cpp
@@ -127,8 +128,8 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTkzNzQxMyw1NjcyMDMyMiwtMjEzOD
-E0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3
-LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMz
-M3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbLTEwMzIyMTMzMTIsNTY3MjAzMjIsLTIxMz
+gxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3
+NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLT
+MzNzk1ODg5OV19
 -->
