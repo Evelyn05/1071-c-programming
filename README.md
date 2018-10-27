@@ -10,10 +10,10 @@
 * tempcovert.cpp
   >**Note**---
   >Enter temperature in C: 20.5
- >20.5 C=68.9 F
-Enter temperature in F: 80.5
-80.5 F= 26.9 C
-[tempcovert程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W01/tempconvert.cpp)
+  >20.5 C=68.9 F
+  >Enter temperature in F: 80.5
+  >80.5 F= 26.9 C
+  >[tempcovert程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W01/tempconvert.cpp)
 
 
 * math.cpp
@@ -62,6 +62,6 @@ Enter temperature in F: 80.5
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNzA5NzU4LDE2OTk1Nzk5MTQsLTkwND
-A0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbLTE0MDcxNDgwNCwxNjk5NTc5OTE0LC05MD
+QwNDk0MTIsLTIwNTE0Mjk3ODEsLTMzNzk1ODg5OV19
 -->
