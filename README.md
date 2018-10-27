@@ -122,10 +122,12 @@
      >3. Tsosceles Triangle
     >4. Exit => 1
     >  Enter height and width: 5 8 0
-    
+    [menu2程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W04/Menu2.cpp)
   
 ## week05
   * **menu3.cpp**
+       >**Note**---
+       
   
  
  
@@ -143,8 +145,8 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTI5NTUwOCw1NjcyMDMyMiwtMjEzOD
-E0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3
-LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMz
-M3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbNTE5NzQ2MjExLDU2NzIwMzIyLC0yMTM4MT
+Q0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3Nzcs
+MTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMz
+c5NTg4OTldfQ==
 -->
