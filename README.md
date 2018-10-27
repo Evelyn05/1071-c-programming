@@ -50,6 +50,7 @@
   * sum.cpp
     >**Note**---
     
+    
   * BMI.cpp
   * leap迴圈.cpp
   * sec迴圈.cpp 
@@ -77,7 +78,7 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1MzMzNDE4LDE0MjQ2NTM5OTQsNzMzND
-A5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4
-MSwtMzM3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbLTU1MTMwMDk2OCwxNDI0NjUzOTk0LDczMz
+QwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3
+ODEsLTMzNzk1ODg5OV19
 -->
