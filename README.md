@@ -132,7 +132,7 @@
 	    4. Exit 
 	    =>
 	     Enter height and width: 
-    
+	     
 	    Main Menu 
 	    1. Rectangle
 	    2.  Vertical Triangle 
@@ -236,8 +236,8 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwNzg4NDg1LDM1OTk0MTk0LDU2NzIwMz
-IyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3
-MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxND
-I5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTE4NTIyNDY0MTksMzU5OTQxOTQsNTY3Mj
+AzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0
+LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNT
+E0Mjk3ODEsLTMzNzk1ODg5OV19
 -->
