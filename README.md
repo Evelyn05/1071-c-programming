@@ -367,11 +367,19 @@
 	Bye! coding by 406530120
 [模擬題3程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C3.cpp)
 * **模擬題4**
->**Note**---編碼規則如下，千位數加 5 取餘數後和十位數對調，百位數和個位數 對調。 encode為編碼，decode為ㄍㄧㄝˇ
+>**Note**---編碼規則如下，千位數加 5 取餘數後和十位數對調，百位數和個位數 對調。 encode為編碼，decode為解碼。
+
+>**output**
+	
+	Enter N (-1 to exit): 1234
+	encode(1234)=3462
+	decode(3462)=1234
+	Enter N (-1 to exit): -1
+	Bye! coding by 406530120
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzExNjAzNTEsOTM4NDM0MjYzLC0xMz
-E5NjkwNzY2LC0xODc5Mzg5MDUzLDM1OTk0MTk0LDU2NzIwMzIy
-LC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3Mz
-M0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5
-NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbMTk4MDM3ODQ4Miw5Mzg0MzQyNjMsLTEzMT
+k2OTA3NjYsLTE4NzkzODkwNTMsMzU5OTQxOTQsNTY3MjAzMjIs
+LTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMz
+QwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3
+ODEsLTMzNzk1ODg5OV19
 -->
