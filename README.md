@@ -169,7 +169,9 @@
     [Daypass程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W06/Daypass.cpp)   
  * **sort.cpp**
    >**Note**---
-   >
+   >由**小**排到**大**
+   >original: 34 78 12 9 87 66 88 99 56 11
+   >sorting : 9 11 12 34 56 66 78 87 88 99
 ## week07
   * **rsum.cpp**
   * **rsumodd.cpp**
@@ -180,8 +182,8 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODQ5MDcyLDM1OTk0MTk0LDU2NzIwMz
-IyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3
-MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxND
-I5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbMjE0NzQyNzEzMCwzNTk5NDE5NCw1NjcyMD
+MyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQs
+NzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MT
+QyOTc4MSwtMzM3OTU4ODk5XX0=
 -->
