@@ -49,39 +49,42 @@
     [ leap程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W02/leap.cpp)
     
   * sec.cpp
-    >**Note**---
-    Enter seconds: 20000 
-    20000 seconds = 05:33:20
+    >**output**
+    
+	    Enter seconds: 20000 
+	    20000 seconds = 05:33:20
    [ sec程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W02/sec.cpp)
      
   
 ## week03
   * **sum.cpp**
-    >**Note**---
-    1st
-    Enter n1 n2: 1 10
-    sum(1,10) = 55
-    2nd
-    Enter n1 n2: 5 10 
-    sum(5,10) = 45
-    3rd
-    Enter n1 n2: 10 100 
-    sum(10,100) = 5005 
-    4th
-    Enter n1 n2: 50 100 
-    sum(50,100) = 3825 
-    Enter n1 n2(-1 -1 to exit): -1 -1
+    >**output**
+    
+	    1st
+	    Enter n1 n2: 1 10
+	    sum(1,10) = 55
+	    2nd
+	    Enter n1 n2: 5 10 
+	    sum(5,10) = 45
+	    3rd
+	    Enter n1 n2: 10 100 
+	    sum(10,100) = 5005 
+	    4th
+	    Enter n1 n2: 50 100 
+	    sum(50,100) = 3825 
+	    Enter n1 n2(-1 -1 to exit): -1 -1
    [ sum程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/sum.cpp)  
     
   * BMI.cpp
-    >**Note**---
-    輸入身高體重
-    若BMI<18.5，印出體重過輕;
-    若BMI介於18.5~24之間，印出體重適中;
-    若BMI介於24~27，印出體重過重;
-    若BMI介於27~30，印出輕度肥胖;
-    若BMI介於30~35，印出中度肥胖;
-     若BMI>35，印出重度肥胖;
+    >**output**
+    
+	    輸入身高體重
+	    若BMI<18.5，體重過輕;
+	    若BMI介於18.5~24之間，體重適中;
+	    若BMI介於24~27，體重過重;
+	    若BMI介於27~30，輕度肥胖;
+	    若BMI介於30~35，印出中度肥胖;
+	    若BMI>35，印出重度肥胖;
       [ BMI程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/BMI.cpp)
   * **leap迴圈.cpp**
     >**Note**--- 
@@ -313,7 +316,7 @@
 	Total is 2400:
 [滿額折扣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E6%BB%BF%E9%A1%8D%E6%89%93%E6%8A%98.cpp)   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDc2OTMzOCwtMTg3OTM4OTA1MywzNT
+eyJoaXN0b3J5IjpbLTMxMTU5NjAxNiwtMTg3OTM4OTA1MywzNT
 k5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQw
 LDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwND
 A0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX0=
