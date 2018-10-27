@@ -296,12 +296,14 @@
 	  Please Enter second integer:5
 	  Please Enter third integer:8
 	  Sum is 16.
- [3個數字之和程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/Hanoi.cpp)     
+ [3個數字之和程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E4%B8%89%E5%80%8B%E6%95%B8%E5%AD%97%E4%B9%8B%E5%92%8C.cpp)     
  
   * **滿額折扣.cpp**
+   >**Note**---
+   >火鍋店推出優惠活動，只要
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwNzU4MDI3LDM1OTk0MTk0LDU2NzIwMz
-IyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3
-MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxND
-I5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbMTUyNDA4MTc5NSwzNTk5NDE5NCw1NjcyMD
+MyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQs
+NzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MT
+QyOTc4MSwtMzM3OTU4ODk5XX0=
 -->
