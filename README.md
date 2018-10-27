@@ -89,8 +89,10 @@
      Enter year: 2100 
      Year 2100 is not a leap year. 
      Enter year: -1
+     [ leap迴圈程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/leap%20year%E8%BF%B4%E5%9C%88.cpp)
     
   * sec迴圈.cpp 
+  *
   
 ## week04
   menu.cpp
@@ -115,8 +117,8 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Nzc1NDg5OSwtMjEzODE0NDgzNCwxNT
-M0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LDE2OTk1Nzk5
-MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX
-0=
+eyJoaXN0b3J5IjpbNzgyMzAzNTc1LC0yMTM4MTQ0ODM0LDE1Mz
+QxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkx
+NCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ
+==
 -->
