@@ -32,10 +32,13 @@
     1st
     Enter year: 2000 
     Year 2000 is a leap year.
+     2nd
     Enter year: 2018 Year 
     2018 is not a leap year.
+     3rd
     Enter year: 2020
     Year 2020 is a leap year.
+    4th
     Enter year: 2100
     Year 2100 is not a leap year.
     [ leap程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W02/leap.cpp)
@@ -77,6 +80,15 @@
       [ BMI程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/BMI.cpp)
   * leap迴圈.cpp
     >**Note**--- 
+    Enter year: 2000 Year 
+    2000 is a leap year. 
+    Enter year: 2018
+    Year 2018 is not a leap year. 
+    Enter year: 2020
+    Year 2020 is a leap year.
+     Enter year: 2100 
+     Year 2100 is not a leap year. 
+     Enter year: -1
     
   * sec迴圈.cpp 
   
@@ -103,8 +115,8 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDczMTkyMzcsLTIxMzgxNDQ4MzQsMT
-UzNDEwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3NywxNjk5NTc5
-OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLTMzNzk1ODg5OV
-19
+eyJoaXN0b3J5IjpbMTU5Nzc1NDg5OSwtMjEzODE0NDgzNCwxNT
+M0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LDE2OTk1Nzk5
+MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX
+0=
 -->
