@@ -83,51 +83,54 @@
 	    若BMI介於18.5~24之間，體重適中;
 	    若BMI介於24~27，體重過重;
 	    若BMI介於27~30，輕度肥胖;
-	    若BMI介於30~35，印出中度肥胖;
-	    若BMI>35，印出重度肥胖;
+	    若BMI介於30~35，中度肥胖;
+	    若BMI>35，重度肥胖;
       [ BMI程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/BMI.cpp)
   * **leap迴圈.cpp**
-    >**Note**--- 
-    Enter year: 2000 Year 
-    2000 is a leap year. 
-    Enter year: 2018
-    Year 2018 is not a leap year. 
-    Enter year: 2020
-    Year 2020 is a leap year.
-     Enter year: 2100 
-     Year 2100 is not a leap year. 
-     Enter year: -1
+    >**output**--- 
+    
+	    Enter year: 2000 Year 
+	    2000 is a leap year. 
+	    Enter year: 2018
+	    Year 2018 is not a leap year. 
+	    Enter year: 2020
+	    Year 2020 is a leap year.
+	     Enter year: 2100 
+	     Year 2100 is not a leap year. 
+	     Enter year: -1
      [ leap迴圈程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/leap%20year%E8%BF%B4%E5%9C%88.cpp)
     
   * **sec迴圈.cpp** 
-    >**Note**--- 
-    Enter seconds: 20000 
-    20000 seconds = 05:33:20 
-    Enter seconds: 10000 
-    10000 seconds = 02:46:40 
-    Enter seconds: 30000 
-    30000 seconds = 08:20:00 
-    Enter seconds: 100000 
-    100000 seconds = 27:46:40 
-    Enter seconds: -1
+    >**output**
+    
+	    Enter seconds: 20000 
+	    20000 seconds = 05:33:20 
+	    Enter seconds: 10000 
+	    10000 seconds = 02:46:40 
+	    Enter seconds: 30000 
+	    30000 seconds = 08:20:00 
+	    Enter seconds: 100000 
+	    100000 seconds = 27:46:40 
+	    Enter seconds: -1
     [sec迴圈程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/sec%E8%BF%B4%E5%9C%88.cpp)
   
 ## week04
   * **menu.cpp**
-    >**Note**---   
-    >Main Menu  (三角形有4種type)
-    >1. Rectangle
-    >2.  Vertical Triangle 
-    >3. Exit 
-    =>
-    > Enter height and width: 5 8
+    >**output**
     
-     >Main Menu
-    >1. Rectangle
-    >2.  Vertical Triangle 
-    >3. Exit 
+	    Main Menu  (三角形有4種type)
+	    1. Rectangle
+	    2.  Vertical Triangle 
+	    3. Exit 
+	    =>
+	     Enter height and width: 5 8
+    
+     Main Menu
+    1. Rectangle
+    2.  Vertical Triangle 
+    3. Exit 
     =>
-    > Enter height and type: 
+     Enter height and type: 
      [menu程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W04/Menu.cpp)
     
   * menu2.cpp 
@@ -316,8 +319,8 @@
 	Total is 2400:
 [滿額折扣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E6%BB%BF%E9%A1%8D%E6%89%93%E6%8A%98.cpp)   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTU5NjAxNiwtMTg3OTM4OTA1MywzNT
-k5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQw
-LDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwND
-A0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbNDAwMzM1NDg5LC0xODc5Mzg5MDUzLDM1OT
+k0MTk0LDU2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAs
+MTQyNDY1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MD
+Q5NDEyLC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ==
 -->
