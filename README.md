@@ -171,7 +171,7 @@
        [menu3程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W05/Menu3.cpp)  
 ## week06
  * **Daypass.cpp**
-     >**Note**---
+     >**output**
      
 	     Enter year: 2018
 	     Enter month and day: 10 16 
@@ -189,13 +189,15 @@
  * **sort.cpp**
    >**Note**---
    >由**小**排到**大**
- 
+   
+   >**output**
+   >
 	   original: 34 78 12 9 87 66 88 99 56 11
 	   sorting : 9 11 12 34 56 66 78 87 88 99
     [sort程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W06/sort.cpp)
 ## week07
   * **rsum.cpp**
-    >**Note**---
+    >**output**
     
 	    Enter n: 10 
 	    sum(10)=55 
@@ -212,10 +214,11 @@
 	    rsum(10)=55
     [rsum程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/rsum.cpp)
   * **rsumodd.cpp**
-    >**Note**---
+    >**Note**
     n is odd 
      sumodd1(n) = 1+3+5+...(2n-1) 
      sumodd2(n) = 1+3+5+...n
+>
      
 	     Enter n: 5
 	      sumodd1(5) = 25; 
@@ -324,7 +327,7 @@
 	Total is 2400:
 [滿額折扣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E6%BB%BF%E9%A1%8D%E6%89%93%E6%8A%98.cpp)   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkxMjQ3NzYsLTE4NzkzODkwNTMsMz
+eyJoaXN0b3J5IjpbLTIxMzMwMjA1NDIsLTE4NzkzODkwNTMsMz
 U5OTQxOTQsNTY3MjAzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0
 MCwxNDI0NjUzOTk0LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MD
 QwNDk0MTIsLTIwNTE0Mjk3ODEsLTMzNzk1ODg5OV19
