@@ -331,7 +331,16 @@
 	Total is 2400:
 [滿額折扣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E6%BB%BF%E9%A1%8D%E6%89%93%E6%8A%98.cpp)   
 * **猜數字.cpp**
->**Note**---
+>**Note**---正確答案為21
+
+>**output**
+
+	Please Enter your guess: 10
+	Too low!
+	Please Enter your guess: 40
+	Too large!
+	Please Enter your guess: 21
+	Congraturations!
 
  * **加減乘除.cpp**
   >**output**
@@ -457,7 +466,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTE2NTYxMjQsLTE5NDIwODU4ODMsLT
+eyJoaXN0b3J5IjpbLTE0OTY1OTkzOTQsLTE5NDIwODU4ODMsLT
 EwMzE1MzI5MjMsMTU5MTg4ODU0OCwyNDUxNzM0ODYsOTM4NDM0
 MjYzLC0xMzE5NjkwNzY2LC0xODc5Mzg5MDUzLDM1OTk0MTk0LD
 U2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1
