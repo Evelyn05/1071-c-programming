@@ -8,6 +8,7 @@
 
 
 * tempcovert.cpp
+>**Note**---
 * math.cpp
 
 
@@ -43,9 +44,9 @@
   * r gcd.cpp
   * hanoi.cpp
 ## myself
-  3個數字之和.cpp
-  滿額折扣.cpp
+  * 3個數字之和.cpp
+  * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODQ0MzUwMywtOTA0MDQ5NDEyLC0yMD
-UxNDI5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbNDE1MjAwMDg0LC05MDQwNDk0MTIsLTIwNT
+E0Mjk3ODEsLTMzNzk1ODg5OV19
 -->
