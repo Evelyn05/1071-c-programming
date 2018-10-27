@@ -2,10 +2,10 @@
 
 ## week01
 * Welcome.cpp
-  >Note---印出Welcome to C programming.
+  >**Note**---印出Welcome to C programming.
   >			 My name is Evelyn.
 [Welcome程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W01/welcome.cpp)
-
+輸出ㄏㄨ
 
 tempcovert.cpp
 math.cpp
@@ -42,6 +42,6 @@ math.cpp
   r gcd.cpp
   hanoi.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwNzA4NzI1LC0yMDUxNDI5NzgxLC0zMz
-c5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTEzNTg3OTAxNCwtMjA1MTQyOTc4MSwtMz
+M3OTU4ODk5XX0=
 -->
