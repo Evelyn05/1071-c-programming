@@ -259,13 +259,13 @@
     >**output**
     
 		    tower1(n,from,aux,to) 
-			   A -> C 
-			   A -> B
-			   C -> B 
-			   A -> C 
-			   B -> A 
-			   B -> C 
-		   A -> C 
+		      A -> C 
+		      A -> B
+			  C -> B 
+			  A -> C 
+			  B -> A 
+			  B -> C 
+		      A -> C 
 		    tower2(n,to,aux,from)
 		      C -> A
 		      C -> B 
@@ -454,10 +454,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NjQwNzEzLC0xMDMxNTMyOTIzLDE1OT
-E4ODg1NDgsMjQ1MTczNDg2LDkzODQzNDI2MywtMTMxOTY5MDc2
-NiwtMTg3OTM4OTA1MywzNTk5NDE5NCw1NjcyMDMyMiwtMjEzOD
-E0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3
-LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMz
-M3OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbLTE5NDIwODU4ODMsLTEwMzE1MzI5MjMsMT
+U5MTg4ODU0OCwyNDUxNzM0ODYsOTM4NDM0MjYzLC0xMzE5Njkw
+NzY2LC0xODc5Mzg5MDUzLDM1OTk0MTk0LDU2NzIwMzIyLC0yMT
+M4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3
+NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC
+0zMzc5NTg4OTldfQ==
 -->
