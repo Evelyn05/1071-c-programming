@@ -49,12 +49,16 @@
 ## week03
   * sum.cpp
     >**Note**---
+    1st
     Enter n1 n2: 1 10
     sum(1,10) = 55
+    2nd
     Enter n1 n2: 5 10 
     sum(5,10) = 45
+    3rd
     Enter n1 n2: 10 100 
     sum(10,100) = 5005 
+    4th
     Enter n1 n2: 50 100 
     sum(50,100) = 3825 
     Enter n1 n2(-1 -1 to exit): -1 -1
@@ -97,8 +101,8 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzE1MDMyMiwtMjEzODE0NDgzNCwxNT
-M0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LDE2OTk1Nzk5
-MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX
-0=
+eyJoaXN0b3J5IjpbNzE5NjU0MTc3LC0yMTM4MTQ0ODM0LDE1Mz
+QxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkx
+NCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ
+==
 -->
