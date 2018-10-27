@@ -2,8 +2,8 @@
 
 ## week01
 * Welcome.cpp
->---Note---
->
+  >Note---印出
+
 tempcovert.cpp
 math.cpp
 
@@ -39,6 +39,6 @@ math.cpp
   r gcd.cpp
   hanoi.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTY0NTI2MiwtMjA1MTQyOTc4MSwtMz
+eyJoaXN0b3J5IjpbLTcyNDE5ODMxMSwtMjA1MTQyOTc4MSwtMz
 M3OTU4ODk5XX0=
 -->
