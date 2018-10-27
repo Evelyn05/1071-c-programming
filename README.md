@@ -295,17 +295,17 @@
 		      B -> A 
 		      C -> A 
 		      B -> C 
-		       A -> B 
-		       A -> C 
-		       B -> C 
-		       tower6(n,aux,to,from) 
-		       C -> B 
-		       C -> A
-		       B -> A
-		       C -> B 
-		       A -> C 
-		       A -> B 
-		       C -> B
+		      A -> B 
+		      A -> C 
+	          B -> C 
+	        tower6(n,aux,to,from) 
+		      C -> B 
+		      C -> A
+		      B -> A
+		      C -> B 
+		      A -> C 
+		      A -> B 
+		      C -> B
 	   [hanoi程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/Hanoi.cpp)     
 
   * **3個數字之和.cpp**
@@ -330,8 +330,8 @@
 	Total is 2400:
 [滿額折扣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E6%BB%BF%E9%A1%8D%E6%89%93%E6%8A%98.cpp)   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzODYzODQ4LC0xODc5Mzg5MDUzLDM1OT
-k0MTk0LDU2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAs
-MTQyNDY1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MD
-Q5NDEyLC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTIxMzkxNjE2NzIsLTE4NzkzODkwNTMsMz
+U5OTQxOTQsNTY3MjAzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0
+MCwxNDI0NjUzOTk0LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MD
+QwNDk0MTIsLTIwNTE0Mjk3ODEsLTMzNzk1ODg5OV19
 -->
