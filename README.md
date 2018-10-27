@@ -92,7 +92,8 @@
      [ leap迴圈程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W03/leap%20year%E8%BF%B4%E5%9C%88.cpp)
     
   * sec迴圈.cpp 
-  *
+    >**Note**--- 
+    
   
 ## week04
   menu.cpp
@@ -117,8 +118,7 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyMzAzNTc1LC0yMTM4MTQ0ODM0LDE1Mz
-QxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkx
-NCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ
-==
+eyJoaXN0b3J5IjpbNTY3MjAzMjIsLTIxMzgxNDQ4MzQsMTUzND
+EwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3NywxNjk5NTc5OTE0
+LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLTMzNzk1ODg5OV19
 -->
