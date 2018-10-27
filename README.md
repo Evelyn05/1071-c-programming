@@ -122,14 +122,14 @@
     
 	    Main Menu 
 	    1. Rectangle
-	    2.  Vertical Triangle 
+	    2. Vertical Triangle 
 	    3. Exit 
 	    =>
 	     Enter height and width: 
     
 	     Main Menu
 	    1. Rectangle
-	    2.  Vertical Triangle 
+	    2. Vertical Triangle 
 	    3. Exit 
 	    =>
 	     Enter height and type: 
@@ -450,10 +450,11 @@
 	(6) Exit
 	6
 	Bye! Coding by 406530120
+[模擬題5程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C5.cpp)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzEzMzAwMCwyNDUxNzM0ODYsOTM4ND
+eyJoaXN0b3J5IjpbMTU5MTg4ODU0OCwyNDUxNzM0ODYsOTM4ND
 M0MjYzLC0xMzE5NjkwNzY2LC0xODc5Mzg5MDUzLDM1OTk0MTk0
 LDU2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyND
 Y1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEy
