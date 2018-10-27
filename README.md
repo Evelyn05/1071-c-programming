@@ -68,7 +68,7 @@
     若BMI介於24~27，印出體重過重;
     若BMI介於27~30，印出輕度肥胖;
     若BMI介於30~35，印出中度肥胖;
-     若BMI>35，印出重度肥胖
+     若BMI>35，印出重度肥胖;
   * leap迴圈.cpp
   * sec迴圈.cpp 
   
@@ -95,7 +95,7 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0MDM5OTQ5LDE1MzQxMDQ4NDAsMTQyND
-Y1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEy
-LC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxND
+I0NjUzOTk0LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0
+MTIsLTIwNTE0Mjk3ODEsLTMzNzk1ODg5OV19
 -->
