@@ -367,9 +367,9 @@
 	Bye! coding by 406530120
 [模擬題3程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C3.cpp)
 * **模擬題4**
-
+>**Note**---編碼規則如下，千位數加 5 取餘數後和十位數對調，百位數和個位數 對調。 encode為編碼，decode為ㄍㄧㄝˇ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjUwMzExNzMsOTM4NDM0MjYzLC0xMz
+eyJoaXN0b3J5IjpbLTE3MzExNjAzNTEsOTM4NDM0MjYzLC0xMz
 E5NjkwNzY2LC0xODc5Mzg5MDUzLDM1OTk0MTk0LDU2NzIwMzIy
 LC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3Mz
 M0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5
