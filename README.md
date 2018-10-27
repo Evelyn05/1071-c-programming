@@ -319,7 +319,7 @@
 	  Please Enter second integer:5
 	  Please Enter third integer:8
 	  Sum is 16.
- [3個數字之和程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E4%B8%89%E5%80%8B%E6%95%B8%E5%AD%97%E4%B9%8B%E5%92%8C.cpp)     
+   [3個數字之和程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E4%B8%89%E5%80%8B%E6%95%B8%E5%AD%97%E4%B9%8B%E5%92%8C.cpp)     
  
   * **滿額折扣.cpp**
    >**Note**---
@@ -376,10 +376,15 @@
 	decode(3462)=1234
 	Enter N (-1 to exit): -1
 	Bye! coding by 406530120
+[模擬題4程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C4.cpp)
+* **模擬題5**
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDM3ODQ4Miw5Mzg0MzQyNjMsLTEzMT
-k2OTA3NjYsLTE4NzkzODkwNTMsMzU5OTQxOTQsNTY3MjAzMjIs
-LTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMz
-QwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3
-ODEsLTMzNzk1ODg5OV19
+eyJoaXN0b3J5IjpbMjQ1MTczNDg2LDkzODQzNDI2MywtMTMxOT
+Y5MDc2NiwtMTg3OTM4OTA1MywzNTk5NDE5NCw1NjcyMDMyMiwt
+MjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzND
+A5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4
+MSwtMzM3OTU4ODk5XX0=
 -->
