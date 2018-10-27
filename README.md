@@ -176,6 +176,19 @@
 ## week07
   * **rsum.cpp**
     >**Note**---
+    Enter n: 10 
+    sum(10)=55 
+    10 
+    9 
+    8 
+    7 
+    6 
+    5 
+    4 
+    3 
+    2 
+    1 
+    rsum(10)=55
     
   * **rsumodd.cpp**
   * **fib.cpp**
@@ -185,7 +198,7 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzExMDI1MTEsMzU5OTQxOTQsNTY3Mj
+eyJoaXN0b3J5IjpbLTExMDQ1NDE0NTIsMzU5OTQxOTQsNTY3Mj
 AzMjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0
 LDczMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNT
 E0Mjk3ODEsLTMzNzk1ODg5OV19
