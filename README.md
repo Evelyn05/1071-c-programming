@@ -16,6 +16,7 @@ Enter temperature in F: 80.5
 
 
 * math.cpp
+  >   **Note**---
 
 
 
@@ -53,6 +54,6 @@ Enter temperature in F: 80.5
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTcwMjkyNCwtOTA0MDQ5NDEyLC0yMD
-UxNDI5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTY1MTY5NDgxLC05MDQwNDk0MTIsLTIwNT
+E0Mjk3ODEsLTMzNzk1ODg5OV19
 -->
