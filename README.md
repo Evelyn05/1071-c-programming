@@ -286,10 +286,12 @@
 		       C -> B
 
   * **3個數字之和.cpp**
-  >**Note**
+  >**Note**---
+  >輸入3個整數，會得到加總的答案。
+  
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTkxOTMxOSwzNTk5NDE5NCw1NjcyMD
+eyJoaXN0b3J5IjpbLTkzMDEzNDIzNCwzNTk5NDE5NCw1NjcyMD
 MyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQs
 NzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MT
 QyOTc4MSwtMzM3OTU4ODk5XX0=
