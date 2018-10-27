@@ -205,15 +205,19 @@
        [rsumodd程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/rsumodd.cpp)
   * **fib.cpp**
      >**Note**---
-     
+     fib(3) = 2 
+     fib(10) = 55 
+     fib(30) = 832040
+     [fib程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/fib.cpp)
   * **r gcd.cpp**
+  
   * **hanoi.cpp**
 ## myself
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MDE2OTgzLDM1OTk0MTk0LDU2NzIwMz
-IyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3
-MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxND
-I5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTYyNDkxMTIyOSwzNTk5NDE5NCw1NjcyMD
+MyMiwtMjEzODE0NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQs
+NzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MT
+QyOTc4MSwtMzM3OTU4ODk5XX0=
 -->
