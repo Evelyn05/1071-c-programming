@@ -40,16 +40,18 @@
     [ leap程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W02/leap.cpp)
     
   * sec.cpp
-    >**Note**---Enter seconds: 20000 
+    >**Note**---
+    Enter seconds: 20000 
     20000 seconds = 05:33:20
    [ sec程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W02/sec.cpp)
      
   
 ## week03
   * sum.cpp
+  
   * BMI.cpp
   * leap迴圈.cpp
-  * sec.cpp 
+  * sec迴圈.cpp 
   
 ## week04
   menu.cpp
@@ -74,7 +76,7 @@
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODQyMDksMTQyNDY1Mzk5NCw3MzM0MD
-k3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5Nzgx
-LC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbMTk2MjU0NTQzMywxNDI0NjUzOTk0LDczMz
+QwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3
+ODEsLTMzNzk1ODg5OV19
 -->
