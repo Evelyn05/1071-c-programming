@@ -290,11 +290,14 @@
   >輸入3個整數，會得到加總的答案。
   
   >**output**
-  >Please Enter first integer:3
-  >Please Enter second integer:
+ 
+	  Please Enter first integer:3
+	  Please Enter second integer:5
+	  Please Enter third integer:8
+	  Sum is 16.
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwODE1ODkyLDM1OTk0MTk0LDU2NzIwMz
+eyJoaXN0b3J5IjpbLTE4NzQyNDEyLDM1OTk0MTk0LDU2NzIwMz
 IyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3
 MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxND
 I5NzgxLC0zMzc5NTg4OTldfQ==
