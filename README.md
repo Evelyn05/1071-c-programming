@@ -107,27 +107,27 @@
 ## week04
   * **menu.cpp**
     >**Note**---   
-    >Main Menu 
+    >Main Menu  (三角形有4種type)
     >1. Rectangle
     >2.  Vertical Triangle 
     >3. Exit => 1
     > Enter height and width: 5 8
     
-     >Main Menu 
+     >Main Menu
     >1. Rectangle
     >2.  Vertical Triangle 
     >3. Exit => 2
-    > Enter height and type: 5 1(三角形有4種type)
+    > Enter height and type: 
      [menu程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W04/Menu.cpp)
     
   * menu2.cpp 
       >**Note**--- 
-      >Main Menu (各2種type，空心和
+      >Main Menu (各2種type，空心和實心)
     >1. Rectangle
     >2.  Vertical Triangle 
      >3. Tsosceles Triangle
     >4. Exit => 1
-    >  Enter height and width: 5 8 0
+    >  Enter height and width: 
     
     >Main Menu 
     >1. Rectangle
@@ -159,8 +159,8 @@
   * **3個數字之和.cpp**
   * **滿額折扣.cpp**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4NzUyMzQ4LDU2NzIwMzIyLC0yMTM4MT
-Q0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3Nzcs
-MTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMz
-c5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbLTE1NTE4NDA3NzEsNTY3MjAzMjIsLTIxMz
+gxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3
+NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLT
+MzNzk1ODg5OV19
 -->
