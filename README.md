@@ -16,10 +16,11 @@ Enter temperature in F: 80.5
 
 
 * math.cpp
-  > **Note**---Enter a b c: 2 -3 1 For equation 2 x^2 -3 x + 1 =0, two roots are 
-  > x1 = 1.0 
-  > x2 = 0.5
-
+  > **Note**---Enter a b c: 2 -3 1
+  >  For equation 2 x^2 -3 x + 1 =0, two roots are 
+  > X1 = 1.0 
+  > X2 = 0.5
+  > [math程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W01/math.cpp)
 
 
 ## week02
@@ -56,6 +57,6 @@ Enter temperature in F: 80.5
   * 3個數字之和.cpp
   * 滿額折扣.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODU3ODY0NiwtOTA0MDQ5NDEyLC0yMD
-UxNDI5NzgxLC0zMzc5NTg4OTldfQ==
+eyJoaXN0b3J5IjpbOTg5NDQ4MTIzLC05MDQwNDk0MTIsLTIwNT
+E0Mjk3ODEsLTMzNzk1ODg5OV19
 -->
