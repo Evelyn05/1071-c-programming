@@ -1,40 +1,36 @@
 #include <stdio.h>
-void prarray(int g[],int n){
-for(int i=0;i<n;i++){
-    printf("%2d",&g[i]);
+#include <ctype.h>
+int isprime(int n){
+    for(int i=2;i<n/2;i++){
+      if(n%i==0) return 0;
+    }
+    return 1;
 }
-printf("\n");
+int findprime(int data[],int n1,int n2){
+for(int i=n1;i<=n2;i++){
+    if(isprime(i))printf("%d\n",i);
 }
-
+}
+int findprime2(int data[],int n1,int n2){
+int sum=0;
+if(isprime(i)==1){
+    data[sum]=i
+    sum++;
+}return sum;
+}
 int main(){
-int failcount=0,passcount=0,aver=0,sum=0;
-int n;
-int g[n];
+int sum,n1,n2;
+char cont='Y';
+while(cont=='Y'){
+    printf("Enter n1 and n2:");
+    scanf("%d %d",&n1,&n2);
+    sum=findprime2(data[],n1,n2);
+    printf("%d primes between n1and n2.",sum);
+    findprime(data,n1,n2);
+    printf("Continue (Y/N)?");
+    getchar();
+    cont=toupper(getchar());
+    printf("\n");
 
-printf("Enter a series of scores between 0~100(-1 to exit).\n");
-for(int i=1;i<=n;i++)
-scanf("%d",& g[n-1]);
-printf("Scores listing:\n");
-prarray(g,n);
-printf("The summary:\n");
-printf("NumberCount = %d\n",n);
-for(int i=0;i<n;i++){
-    if(g[i]<60){
-        failcount++;
-    }
-}
-printf("FailedCount = %d\n",&failcount);
-for(int i=0;i<n;i++){
-    if(g[i]>60 || g[i]==60){
-        passcount++;
-    }
-}
-printf("PassCount = %d\n",&passcount);
-for(int i=0;i<n;i++){
-    sum+=g[i];
-    aver=sum/n;
-}
-printf("Average = %d\n",&aver);
-
-return 0;
+}printf("Coding by 406530120.");
 }
