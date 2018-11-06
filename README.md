@@ -555,11 +555,13 @@
 >**Note**
 請輸入一連串介於 0~100 之間的成績，統計有多少筆成績，及格筆 數，不及格筆數，及格成績分布
 
+>**output**
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY5NjA4NDYsLTQwMjE5NzU0OSwzOT
+eyJoaXN0b3J5IjpbLTEyNjM2MDc3MjEsLTQwMjE5NzU0OSwzOT
 k0MDU3MTgsLTE3MjI1Njc2NTAsLTEyMjMwNzkyODQsLTE5NDIw
 ODU4ODMsLTEwMzE1MzI5MjMsMTU5MTg4ODU0OCwyNDUxNzM0OD
 YsOTM4NDM0MjYzLC0xMzE5NjkwNzY2LC0xODc5Mzg5MDUzLDM1
