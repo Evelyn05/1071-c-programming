@@ -529,21 +529,25 @@
 		Continue (Y/N)? N 
 		Coding by 406530120
 [判斷質數程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/2.cpp/1)
-* **2.cpp**
+* **p2.cpp**
 >**output**
 
 	Enter n1 and n2: 5 30 
 	7 primes between 5 and 30. 
 	5 7 11 13 17 19 23 29 
 	 Continue (Y/N)? Y
+[p2 程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/2.cpp/p2%20406530120.cpp)
+* **p3.cpp**
+>**output**
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5NDA1NzE4LC0xNzIyNTY3NjUwLC0xMj
-IzMDc5Mjg0LC0xOTQyMDg1ODgzLC0xMDMxNTMyOTIzLDE1OTE4
-ODg1NDgsMjQ1MTczNDg2LDkzODQzNDI2MywtMTMxOTY5MDc2Ni
-wtMTg3OTM4OTA1MywzNTk5NDE5NCw1NjcyMDMyMiwtMjEzODE0
-NDgzNCwxNTM0MTA0ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LD
-E2OTk1Nzk5MTQsLTkwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMzM3
-OTU4ODk5XX0=
+eyJoaXN0b3J5IjpbLTY2MDU2MTYwMSwzOTk0MDU3MTgsLTE3Mj
+I1Njc2NTAsLTEyMjMwNzkyODQsLTE5NDIwODU4ODMsLTEwMzE1
+MzI5MjMsMTU5MTg4ODU0OCwyNDUxNzM0ODYsOTM4NDM0MjYzLC
+0xMzE5NjkwNzY2LC0xODc5Mzg5MDUzLDM1OTk0MTk0LDU2NzIw
+MzIyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NC
+w3MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUx
+NDI5NzgxXX0=
 -->
