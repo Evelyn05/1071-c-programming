@@ -326,9 +326,12 @@
 		 23  12  1  20  9
 	  [魔方陣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W08/magic.cpp)
 
-* **
+## Week09
+* **Lotto.cpp**
 	  
-	 ## myself
+
+
+## myself
 
   * **3個數字之和.cpp**
   >**Note**---
@@ -487,7 +490,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjgxNjE0OCwtMTIyMzA3OTI4NCwtMT
+eyJoaXN0b3J5IjpbMTQ1NTk3OTk1MiwtMTIyMzA3OTI4NCwtMT
 k0MjA4NTg4MywtMTAzMTUzMjkyMywxNTkxODg4NTQ4LDI0NTE3
 MzQ4Niw5Mzg0MzQyNjMsLTEzMTk2OTA3NjYsLTE4NzkzODkwNT
 MsMzU5OTQxOTQsNTY3MjAzMjIsLTIxMzgxNDQ4MzQsMTUzNDEw
