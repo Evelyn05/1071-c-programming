@@ -327,7 +327,19 @@
 	  [魔方陣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W08/magic.cpp)
 * **struct.cpp**
 >**output**
-
+	
+				Enter N: 10 
+				2018/12/11 
+				2011/06/08 
+				2015/07/24 
+				2010/06/29 
+				2015/04/11 
+				2017/08/08 
+				2019/01/28 
+				2017/03/30 
+				2016/11/31 
+				2015/03/25
+ [struct程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W08/magic.cpp)		
 
 ## Week09
 * **Lotto.cpp**
@@ -507,7 +519,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjQ0OTY0MywtMTIyMzA3OTI4NCwtMT
+eyJoaXN0b3J5IjpbLTk4MDQ2NzAxOSwtMTIyMzA3OTI4NCwtMT
 k0MjA4NTg4MywtMTAzMTUzMjkyMywxNTkxODg4NTQ4LDI0NTE3
 MzQ4Niw5Mzg0MzQyNjMsLTEzMTk2OTA3NjYsLTE4NzkzODkwNT
 MsMzU5OTQxOTQsNTY3MjAzMjIsLTIxMzgxNDQ4MzQsMTUzNDEw
