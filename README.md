@@ -309,7 +309,7 @@
 		      C -> B
 	   [hanoi程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W07/Hanoi.cpp)     
 	 ## week08
-	 *  **magic.cpp**
+	   **magic.cpp**
 	 >**output**
 
 		Diagonal Move
@@ -324,7 +324,9 @@
 		 10  24 13  2  16 
 		 4   18  7  21 15 
 		 23  12  1  20  9
-	  [3個數字之和程式碼]
+	  [魔方陣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W08/magic.cpp)
+
+* **
 	  
 	 ## myself
 
@@ -485,11 +487,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk3NjA4NzEsLTEyMjMwNzkyODQsLT
-E5NDIwODU4ODMsLTEwMzE1MzI5MjMsMTU5MTg4ODU0OCwyNDUx
-NzM0ODYsOTM4NDM0MjYzLC0xMzE5NjkwNzY2LC0xODc5Mzg5MD
-UzLDM1OTk0MTk0LDU2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQx
-MDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkxNC
-wtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ==
-
+eyJoaXN0b3J5IjpbLTkzMjgxNjE0OCwtMTIyMzA3OTI4NCwtMT
+k0MjA4NTg4MywtMTAzMTUzMjkyMywxNTkxODg4NTQ4LDI0NTE3
+MzQ4Niw5Mzg0MzQyNjMsLTEzMTk2OTA3NjYsLTE4NzkzODkwNT
+MsMzU5OTQxOTQsNTY3MjAzMjIsLTIxMzgxNDQ4MzQsMTUzNDEw
+NDg0MCwxNDI0NjUzOTk0LDczMzQwOTc3NywxNjk5NTc5OTE0LC
+05MDQwNDk0MTIsLTIwNTE0Mjk3ODEsLTMzNzk1ODg5OV19
 -->
