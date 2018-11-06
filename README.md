@@ -395,6 +395,7 @@
 	Please Enter your guess: 21
 	Congraturations!
 [猜數字程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/myself/%E7%8C%9C%E6%95%B8%E5%AD%97.cpp)
+## 第一次上機考練習
  * **加減乘除.cpp**
   >**output**
  
@@ -406,7 +407,7 @@
 	  25%10=5
 	  
 [加減乘除程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E5%8A%A0%E6%B8%9B%E4%B9%98%E9%99%A4.cpp)     
-* **模擬題2**
+* **BMI **
 >**Note**---輸入2個身高後，可得知介於2身高間的所有最適體重。
 
  >**output**
@@ -420,7 +421,7 @@
 	 175 cm=56.7 ~ 73.5(Kg)
 	Enter height(-1 to exit): -1 -1
 	Bye! Coding by 406530120
-[模擬題2程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C2.cpp)
+[BMI 程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C2.cpp)
 * **模擬題3**
 >**Note**---輸入高後，會出現2個對稱實心三角形。
 
@@ -519,11 +520,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ3MTQ4MTgsLTEyMjMwNzkyODQsLT
-E5NDIwODU4ODMsLTEwMzE1MzI5MjMsMTU5MTg4ODU0OCwyNDUx
-NzM0ODYsOTM4NDM0MjYzLC0xMzE5NjkwNzY2LC0xODc5Mzg5MD
-UzLDM1OTk0MTk0LDU2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQx
-MDQ4NDAsMTQyNDY1Mzk5NCw3MzM0MDk3NzcsMTY5OTU3OTkxNC
-wtOTA0MDQ5NDEyLC0yMDUxNDI5NzgxLC0zMzc5NTg4OTldfQ==
-
+eyJoaXN0b3J5IjpbNDA3MjExNjkzLC0xMjIzMDc5Mjg0LC0xOT
+QyMDg1ODgzLC0xMDMxNTMyOTIzLDE1OTE4ODg1NDgsMjQ1MTcz
+NDg2LDkzODQzNDI2MywtMTMxOTY5MDc2NiwtMTg3OTM4OTA1My
+wzNTk5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgzNCwxNTM0MTA0
+ODQwLDE0MjQ2NTM5OTQsNzMzNDA5Nzc3LDE2OTk1Nzk5MTQsLT
+kwNDA0OTQxMiwtMjA1MTQyOTc4MSwtMzM3OTU4ODk5XX0=
 -->
