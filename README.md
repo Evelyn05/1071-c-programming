@@ -325,6 +325,9 @@
 		 4   18  7  21 15 
 		 23  12  1  20  9
 	  [魔方陣程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W08/magic.cpp)
+* **struct.cpp**
+>**output**
+
 
 ## Week09
 * **Lotto.cpp**
@@ -336,7 +339,12 @@
 	 2019/01/28 03 32 07 48 35 27 
 	 2015/03/25 09 20 23 24 08 19 
 	 2014/08/17 46 39 47 12 03 34 
-	 2010/10/24 30 09 19 09 29 26 2016/08/13 40 41 44 18 47 43 2015/01/06 25 25 08 11 07 41 2016/10/05 14 13 36 41 21 30 2016/01/22 39 32 18 27 16 45
+	 2010/10/24 30 09 19 09 29 26 
+	 2016/08/13 40 41 44 18 47 43 
+	 2015/01/06 25 25 08 11 07 41 
+	 2016/10/05 14 13 36 41 21 30 
+	 2016/01/22 39 32 18 27 16 45
+[Lotto程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/W09/lotto.cpp)
 	  
 
 
@@ -499,7 +507,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Njg2MDAxMSwtMTIyMzA3OTI4NCwtMT
+eyJoaXN0b3J5IjpbMTA4MjQ0OTY0MywtMTIyMzA3OTI4NCwtMT
 k0MjA4NTg4MywtMTAzMTUzMjkyMywxNTkxODg4NTQ4LDI0NTE3
 MzQ4Niw5Mzg0MzQyNjMsLTEzMTk2OTA3NjYsLTE4NzkzODkwNT
 MsMzU5OTQxOTQsNTY3MjAzMjIsLTIxMzgxNDQ4MzQsMTUzNDEw
