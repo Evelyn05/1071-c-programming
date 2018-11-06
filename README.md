@@ -538,16 +538,27 @@
 	 Continue (Y/N)? Y
 [p2 程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/2.cpp/p2%20406530120.cpp)
 * **p3.cpp**
+>**Note**
+寫一個函式 checkSqrt(N)，判斷正整數 N 是否有正整數平方根。
+
 >**output**
+>
+	Enter N: 25 
+	Yes. 25 = 5 x 5 
+	Continue (Y/N): y 
+	Enter N: 30
+	No. 
+	Continue (Y/N): n 
+	Coding by 406530120
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDU2MTYwMSwzOTk0MDU3MTgsLTE3Mj
-I1Njc2NTAsLTEyMjMwNzkyODQsLTE5NDIwODU4ODMsLTEwMzE1
-MzI5MjMsMTU5MTg4ODU0OCwyNDUxNzM0ODYsOTM4NDM0MjYzLC
-0xMzE5NjkwNzY2LC0xODc5Mzg5MDUzLDM1OTk0MTk0LDU2NzIw
-MzIyLC0yMTM4MTQ0ODM0LDE1MzQxMDQ4NDAsMTQyNDY1Mzk5NC
-w3MzM0MDk3NzcsMTY5OTU3OTkxNCwtOTA0MDQ5NDEyLC0yMDUx
-NDI5NzgxXX0=
+eyJoaXN0b3J5IjpbNzQwNDc1NTIzLDM5OTQwNTcxOCwtMTcyMj
+U2NzY1MCwtMTIyMzA3OTI4NCwtMTk0MjA4NTg4MywtMTAzMTUz
+MjkyMywxNTkxODg4NTQ4LDI0NTE3MzQ4Niw5Mzg0MzQyNjMsLT
+EzMTk2OTA3NjYsLTE4NzkzODkwNTMsMzU5OTQxOTQsNTY3MjAz
+MjIsLTIxMzgxNDQ4MzQsMTUzNDEwNDg0MCwxNDI0NjUzOTk0LD
+czMzQwOTc3NywxNjk5NTc5OTE0LC05MDQwNDk0MTIsLTIwNTE0
+Mjk3ODFdfQ==
 -->
