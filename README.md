@@ -436,7 +436,7 @@
 	Enter height (-1 to exit): -1
 	Bye! coding by 406530120
 [模擬題3程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C3.cpp)
-* **模擬題4**
+* **編碼解碼**
 >**Note**---編碼規則如下，千位數加 5 取餘數後和十位數對調，百位數和個位數 對調。 encode為編碼，decode為解碼。
 
 >**output**
@@ -446,7 +446,7 @@
 	decode(3462)=1234
 	Enter N (-1 to exit): -1
 	Bye! coding by 406530120
-[模擬題4程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C4.cpp)
+[編碼解碼程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C4.cpp)
 * **模擬題5**
 >**output**
 
@@ -517,10 +517,11 @@
 	6
 	Bye! Coding by 406530120
 [模擬題5程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/1/%E6%A8%A1%E6%93%AC%E9%A1%8C5.cpp)
+## 第二次上機考練習
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3MjExNjkzLC0xMjIzMDc5Mjg0LC0xOT
+eyJoaXN0b3J5IjpbMzU4MTE4MDU0LC0xMjIzMDc5Mjg0LC0xOT
 QyMDg1ODgzLC0xMDMxNTMyOTIzLDE1OTE4ODg1NDgsMjQ1MTcz
 NDg2LDkzODQzNDI2MywtMTMxOTY5MDc2NiwtMTg3OTM4OTA1My
 wzNTk5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgzNCwxNTM0MTA0
