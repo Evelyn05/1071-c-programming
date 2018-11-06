@@ -521,17 +521,20 @@
 * **判斷質數.cpp**
 >**output**
 
-	Enter N: 23 
-	23 is a prime. 
-	Continue (Y/N)? Y 
-	Enter N: 21 
-	21 is not a prime. 
-	Continue (Y/N)? N 
-	Coding by 406530120
+		Enter N: 23 
+		23 is a prime. 
+		Continue (Y/N)? Y 
+		Enter N: 21 
+		21 is not a prime. 
+		Continue (Y/N)? N 
+		Coding by 406530120
+[判斷質數程式碼](https://github.com/Evelyn05/1071-c-programming/blob/master/2.cpp/1)
+* **2.cpp**
+>**output
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTkxNjY1MSwtMTcyMjU2NzY1MCwtMT
+eyJoaXN0b3J5IjpbLTU1NzgyMjg1NiwtMTcyMjU2NzY1MCwtMT
 IyMzA3OTI4NCwtMTk0MjA4NTg4MywtMTAzMTUzMjkyMywxNTkx
 ODg4NTQ4LDI0NTE3MzQ4Niw5Mzg0MzQyNjMsLTEzMTk2OTA3Nj
 YsLTE4NzkzODkwNTMsMzU5OTQxOTQsNTY3MjAzMjIsLTIxMzgx
