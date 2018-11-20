@@ -43,7 +43,8 @@ void pra(int m[][8]){
 
 }
 int main(){
-    int choice;
+    int choice,r,c;
+    int row,col;
     int m[8][8]={0};
     int access[8][8]={
          2, 3, 4, 4, 4, 4, 3, 2,
@@ -57,12 +58,17 @@ int main(){
     };
     Pos pos;
     int moves =1;
-
-    printf("Menu\n 1.Knight Tour by entering position\n 2. Check 64 cases\n 3. Exit");
+while(1){
+    printf("Menu\n 1.Knight Tour by entering position\n 2. Check 64 cases\n 3. Exit\n");
     scanf("%d",&choice);
     if(choice==3)break;
-    else if{
-    switch(choice==1){
+
+    switch(choice){
+        case 1:
+            printf("Enter row and col for number 1: %d %d",r,c);
+            scanf("%d %d",&r,&c);
+
+
     for(int i=2;i<=64;i++){
         pos=findnextbestpos(m,access,row,col);
 
@@ -76,6 +82,7 @@ int main(){
 
         }
     }
+    printf("The board for this test is:");
     pra(m);
     printf("\nTotal moves: %d\n",moves);
     }
