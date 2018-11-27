@@ -13,6 +13,7 @@ Pos findnextbestpos(int m[][8],int access[][8],int row,int col){
     int minrow=-1,mincol=-1;
     access[row][col]=0;
     for(int i=0;i<8;i++){
+            //printf("1\n");
             nextrow=row+v[i];
             nextcol=col+h[i];
             if(nextrow>=0 && nextrow<=7 && nextcol>=0 && nextcol<=7 && access[nextrow][nextcol]>0){
@@ -65,9 +66,14 @@ void pra(int m[][8]){
  case 1:
      printf("Enter row and col for number 1:");
      scanf("%d %d",&str,&stc);
+
      m[str][stc]=1;
+     row=str;
+     col=stc;
      for(int i=2;i<=64;i++){
+
         pos=findnextbestpos(m,access,row,col);
+
         if(pos.row==-1 && pos.col==-1){
             break;}else{
             m[pos.row][pos.col]=i;
