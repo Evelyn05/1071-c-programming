@@ -2,7 +2,7 @@
 struct List{
     int stunum
     char name;
-    int libnum;
+    int ISBN;
     char bookna;
     int bordate;
     int retudate;
