@@ -4,9 +4,10 @@
 
 int main()
 {int data[n];
-	while(scanf("%d",&data[n])!=0){
-        for(int i=0;i<=n;i++){
-                if(data[i]==1)return 1;
+    int count=0;
+	while(scanf("%d",&data[count++])!=EOF){
+        //for(int i=0;i<=n;i++){
+                //if(data[i]==1)return 1;
         else if(data[i]>data[i+1]){
                 int temp;
                 temp=data[i];
@@ -17,4 +18,3 @@ int main()
 	}
 	return 0;
 }
-
