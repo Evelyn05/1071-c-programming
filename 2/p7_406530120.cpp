@@ -8,16 +8,17 @@ int getPrime(int primes[]){
     if(i%j==0)
     return 0;
    else if(i%j!=0)
-    return 1;
+    return j;
     }
     getch();
 
     }
 int main()
-{int a,b,j;
+{int a,b,c;
+c=getPrime(primes[])
     while (scanf("%d %d",&a,&b)!=EOF){
-            if(getPrime==1){
-                printf("%d",j);
+            if(a<=getPrime==1<=b){
+                printf("%d",c);
             }
 
     }
