@@ -67,9 +67,9 @@ int main( void )
             printf("Enter Student name: ");
             gets(item.name);
             fflush(stdin);
-            printf("Enter bookname: ");
+            printf("Enter Bookname: ");
             gets(item.bookname);
-            printf("Enter book borrow date: ");
+            printf("Enter Book borrow date: ");
             scanf("%d %d %d",&item.borrow.year,&item.borrow.month,&item.borrow.day);
 
             insert( &startPtr, item ); /* insert item in list */
