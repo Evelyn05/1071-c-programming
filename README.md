@@ -583,6 +583,8 @@
 
 	 2
 	 3
+	 Please Enter Bookname:Peter Pan
+	 Peter Pan is already borrow by 2 times.
 	 Please Enter Bookname:
 					
 				
@@ -598,7 +600,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDA1NTM1MywyNDY5NzM3NTksLTgwNz
+eyJoaXN0b3J5IjpbMTAwNzY3MDgzOSwyNDY5NzM3NTksLTgwNz
 gyNjU5MiwxMDc0NDg1OTg5LC0xMjYzNjA3NzIxLC00MDIxOTc1
 NDksMzk5NDA1NzE4LC0xNzIyNTY3NjUwLC0xMjIzMDc5Mjg0LC
 0xOTQyMDg1ODgzLC0xMDMxNTMyOTIzLDE1OTE4ODg1NDgsMjQ1
