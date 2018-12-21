@@ -579,7 +579,7 @@
 	07	  Van		    107	    Number the Stars		2018/07/26		2018/08/26
 	08	  Francisco	    108	    A Wrinkle In Time	 	2018/10/10		2018/11/10
 	09	  Hailey		109		A List of Cages			2018/12/01		2018/01/01
-	10	  Luis		    110	    The Hate U Give			2018/11/11
+	10	  Luis		    110	    The Hate U Give			2018/11/11		2018/12/11
 					
 				
 	
@@ -594,7 +594,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE4NzM3MTgsMjQ2OTczNzU5LC04MD
+eyJoaXN0b3J5IjpbLTE0ODk5ODM2MjYsMjQ2OTczNzU5LC04MD
 c4MjY1OTIsMTA3NDQ4NTk4OSwtMTI2MzYwNzcyMSwtNDAyMTk3
 NTQ5LDM5OTQwNTcxOCwtMTcyMjU2NzY1MCwtMTIyMzA3OTI4NC
 wtMTk0MjA4NTg4MywtMTAzMTUzMjkyMywxNTkxODg4NTQ4LDI0
