@@ -586,12 +586,12 @@
 	 Enter student ID : 11
 	 Enter Student name : Amy
 	 Enter Bookname :  Look at Me
-	 Enter Bookborrow Date : 2019 1 1
+	 Enter Bookborrow Date : 2019
 
      The list is : 
      -->
 	 ISBN : 111 ,   BookName : 	 Look at Me
-	 Bookborrow : 2019/01/01 , Bookreturn Date : 2019/02/01 
+	 Bookborrow  2019/01/01 , Bookreturn Date : 2019/02/01 
 	 Student ID : 11 , Student Name : Amy
 	 NULL
 	?
@@ -619,11 +619,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjI0NTI4OSwtMjA3MDQ3MTgyMiwtMz
-I4MjA2MDU1LDE2OTAxNTQsLTQ4NTEyODU5NywtMTY4NTU1MjU5
-NiwtMTQwMzA1OTU4MiwtODg1NjU2MTMsMTAwNzY3MDgzOSwyND
-Y5NzM3NTksLTgwNzgyNjU5MiwxMDc0NDg1OTg5LC0xMjYzNjA3
-NzIxLC00MDIxOTc1NDksMzk5NDA1NzE4LC0xNzIyNTY3NjUwLC
-0xMjIzMDc5Mjg0LC0xOTQyMDg1ODgzLC0xMDMxNTMyOTIzLDE1
-OTE4ODg1NDhdfQ==
+eyJoaXN0b3J5IjpbLTEwNTIxMjg5ODksLTYxNjI0NTI4OSwtMj
+A3MDQ3MTgyMiwtMzI4MjA2MDU1LDE2OTAxNTQsLTQ4NTEyODU5
+NywtMTY4NTU1MjU5NiwtMTQwMzA1OTU4MiwtODg1NjU2MTMsMT
+AwNzY3MDgzOSwyNDY5NzM3NTksLTgwNzgyNjU5MiwxMDc0NDg1
+OTg5LC0xMjYzNjA3NzIxLC00MDIxOTc1NDksMzk5NDA1NzE4LC
+0xNzIyNTY3NjUwLC0xMjIzMDc5Mjg0LC0xOTQyMDg1ODgzLC0x
+MDMxNTMyOTIzXX0=
 -->
