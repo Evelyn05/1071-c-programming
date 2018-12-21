@@ -573,12 +573,12 @@
 	01	  Cecelia	 	101		Charlotte’s Web			2018/02/08		2018/03/08
     02	  Juliet	    102		Peter Pan				2018/09/23		2018/10/23
     03	  Raymond	    103     The Giver 				2018/11/05		2018/12/05
-	04	  Nahum	    	104	    The Old Man and the Sea 2018/12/19
-	05	  Bradford		105	    Thirteen Reasons Why	2018/09/30
-	06	  Lila	   	 	106	    The Outsiders			2018/06/12
-	07	  Van		    107	    Number the Stars		2018/07/26
-	08	  Francisco	    108	    A Wrinkle In Time	 	2018/10/10
-	09	  Hailey		109		A List of Cages			2018/12/01
+	04	  Nahum	    	104	    The Old Man and the Sea 2018/12/19	 	2018/1/19
+	05	  Bradford		105	    Thirteen Reasons Why	2018/09/30		2018/10/30
+	06	  Lila	   	 	106	    The Outsiders			2018/06/12		2018/07/12
+	07	  Van		    107	    Number the Stars		2018/07/26		2018/08/26
+	08	  Francisco	    108	    A Wrinkle In Time	 	2018/10/10		2018/11/10
+	09	  Hailey		109		A List of Cages			2018/12/01		2018/01/01
 	10	  Luis		    110	    The Hate U Give			2018/11/11
 					
 				
@@ -594,11 +594,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODU1MzI3MCwyNDY5NzM3NTksLTgwNz
-gyNjU5MiwxMDc0NDg1OTg5LC0xMjYzNjA3NzIxLC00MDIxOTc1
-NDksMzk5NDA1NzE4LC0xNzIyNTY3NjUwLC0xMjIzMDc5Mjg0LC
-0xOTQyMDg1ODgzLC0xMDMxNTMyOTIzLDE1OTE4ODg1NDgsMjQ1
-MTczNDg2LDkzODQzNDI2MywtMTMxOTY5MDc2NiwtMTg3OTM4OT
-A1MywzNTk5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgzNCwxNTM0
-MTA0ODQwXX0=
+eyJoaXN0b3J5IjpbLTExMjE4NzM3MTgsMjQ2OTczNzU5LC04MD
+c4MjY1OTIsMTA3NDQ4NTk4OSwtMTI2MzYwNzcyMSwtNDAyMTk3
+NTQ5LDM5OTQwNTcxOCwtMTcyMjU2NzY1MCwtMTIyMzA3OTI4NC
+wtMTk0MjA4NTg4MywtMTAzMTUzMjkyMywxNTkxODg4NTQ4LDI0
+NTE3MzQ4Niw5Mzg0MzQyNjMsLTEzMTk2OTA3NjYsLTE4NzkzOD
+kwNTMsMzU5OTQxOTQsNTY3MjAzMjIsLTIxMzgxNDQ4MzQsMTUz
+NDEwNDg0MF19
 -->
