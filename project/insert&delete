@@ -78,7 +78,7 @@ int main( void )
          case 3:
             /* if list is not empty */
             if ( !isEmpty( startPtr ) ) {
-               printf( "Enter id to be deleted: " );
+               printf( "Enter ISBN to be deleted: " );
                scanf( "\n%d", &item.id );
 
                /* if character is found, remove it */
