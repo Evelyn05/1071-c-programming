@@ -582,12 +582,13 @@
 	10	  Luis		    110	    The Hate U Give			2018/11/11		2018/12/11
 
 	 2
-	 Enter ISBN : 110
+	 Enter ISBN : 1:101
 	 Enter student ID : 10
 	 Enter Student name : Luis
 	 Enter Bookname :  The Hate U Give
 	 
-	 3
+	 33
+	 
 	 Please Enter Bookname:Peter Pan
 	 Peter Pan is already borrow by 2 times.
 	 Please Enter Bookname:
@@ -605,11 +606,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDMwNTk1ODIsLTg4NTY1NjEzLDEwMD
-c2NzA4MzksMjQ2OTczNzU5LC04MDc4MjY1OTIsMTA3NDQ4NTk4
-OSwtMTI2MzYwNzcyMSwtNDAyMTk3NTQ5LDM5OTQwNTcxOCwtMT
-cyMjU2NzY1MCwtMTIyMzA3OTI4NCwtMTk0MjA4NTg4MywtMTAz
-MTUzMjkyMywxNTkxODg4NTQ4LDI0NTE3MzQ4Niw5Mzg0MzQyNj
-MsLTEzMTk2OTA3NjYsLTE4NzkzODkwNTMsMzU5OTQxOTQsNTY3
-MjAzMjJdfQ==
+eyJoaXN0b3J5IjpbLTE2ODU1NTI1OTYsLTE0MDMwNTk1ODIsLT
+g4NTY1NjEzLDEwMDc2NzA4MzksMjQ2OTczNzU5LC04MDc4MjY1
+OTIsMTA3NDQ4NTk4OSwtMTI2MzYwNzcyMSwtNDAyMTk3NTQ5LD
+M5OTQwNTcxOCwtMTcyMjU2NzY1MCwtMTIyMzA3OTI4NCwtMTk0
+MjA4NTg4MywtMTAzMTUzMjkyMywxNTkxODg4NTQ4LDI0NTE3Mz
+Q4Niw5Mzg0MzQyNjMsLTEzMTk2OTA3NjYsLTE4NzkzODkwNTMs
+MzU5OTQxOTRdfQ==
 -->
