@@ -568,7 +568,7 @@
 		4.Borrow times
 		5.ExiT
 	 1
-	ID	   Name     	ISBN		Book			    Borrowdate
+	ID	   Name     	ISBN		Book			    Borrowdate	Returnda	
 	     
 	01	  Cecelia	 	101		Charlotte’s Web			2018/02/08
     02	  Juliet	    102		Peter Pan				2018/09/23
@@ -578,8 +578,8 @@
 	06	  Lila	   	 	106	    The Outsiders			2018/06/12
 	07	  Van		    107	    Number the Stars		2018/07/26
 	08	  Francisco	    108	    A Wrinkle In Time	 	2018/10/10
-	09	  Hailey		109		A List of Cages
-	10	  Luis		    110	    The Hate U Give
+	09	  Hailey		109		A List of Cages			2018/12/01
+	10	  Luis		    110	    The Hate U Give			2018/11/11
 					
 				
 	
@@ -594,11 +594,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTE2OTAyNiwyNDY5NzM3NTksLTgwNz
-gyNjU5MiwxMDc0NDg1OTg5LC0xMjYzNjA3NzIxLC00MDIxOTc1
-NDksMzk5NDA1NzE4LC0xNzIyNTY3NjUwLC0xMjIzMDc5Mjg0LC
-0xOTQyMDg1ODgzLC0xMDMxNTMyOTIzLDE1OTE4ODg1NDgsMjQ1
-MTczNDg2LDkzODQzNDI2MywtMTMxOTY5MDc2NiwtMTg3OTM4OT
-A1MywzNTk5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgzNCwxNTM0
-MTA0ODQwXX0=
+eyJoaXN0b3J5IjpbNzkxODE4NTMzLDI0Njk3Mzc1OSwtODA3OD
+I2NTkyLDEwNzQ0ODU5ODksLTEyNjM2MDc3MjEsLTQwMjE5NzU0
+OSwzOTk0MDU3MTgsLTE3MjI1Njc2NTAsLTEyMjMwNzkyODQsLT
+E5NDIwODU4ODMsLTEwMzE1MzI5MjMsMTU5MTg4ODU0OCwyNDUx
+NzM0ODYsOTM4NDM0MjYzLC0xMzE5NjkwNzY2LC0xODc5Mzg5MD
+UzLDM1OTk0MTk0LDU2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQx
+MDQ4NDBdfQ==
 -->
