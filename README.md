@@ -585,12 +585,12 @@
 	 Enter ISBN : 111
 	 Enter student ID : 11
 	 Enter Student name : Amy
-	 Enter Bookname :  Look at MThe Hate U Give
-	 Enter Bookborrow Date : 20189/12/1/11
+	 Enter Bookname :  Look at Me
+	 Enter Bookborrow Date : 2019/1/1
 
      The list is : 
      -->
-     ISBN : 111 , Bookborrow  	 
+     ISBN : 111 ,   BookName : 	 Look at Me , Bookborrow  : 
 	 33
 	 4
 	 Please Enter Bookname:Peter Pan
@@ -610,11 +610,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTEyODU5NywyMDQzMTM4MjA3LC0xNj
-g1NTUyNTk2LC0xNDAzMDU5NTgyLC04ODU2NTYxMywxMDA3Njcw
-ODM5LDI0Njk3Mzc1OSwtODA3ODI2NTkyLDEwNzQ0ODU5ODksLT
-EyNjM2MDc3MjEsLTQwMjE5NzU0OSwzOTk0MDU3MTgsLTE3MjI1
-Njc2NTAsLTEyMjMwNzkyODQsLTE5NDIwODU4ODMsLTEwMzE1Mz
-I5MjMsMTU5MTg4ODU0OCwyNDUxNzM0ODYsOTM4NDM0MjYzLC0x
-MzE5NjkwNzY2XX0=
+eyJoaXN0b3J5IjpbMjc0ODk5NTU2LC00ODUxMjg1OTcsLTE2OD
+U1NTI1OTYsLTE0MDMwNTk1ODIsLTg4NTY1NjEzLDEwMDc2NzA4
+MzksMjQ2OTczNzU5LC04MDc4MjY1OTIsMTA3NDQ4NTk4OSwtMT
+I2MzYwNzcyMSwtNDAyMTk3NTQ5LDM5OTQwNTcxOCwtMTcyMjU2
+NzY1MCwtMTIyMzA3OTI4NCwtMTk0MjA4NTg4MywtMTAzMTUzMj
+kyMywxNTkxODg4NTQ4LDI0NTE3MzQ4Niw5Mzg0MzQyNjMsLTEz
+MTk2OTA3NjZdfQ==
 -->
