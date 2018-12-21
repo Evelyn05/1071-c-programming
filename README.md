@@ -572,11 +572,11 @@
 	     
 	01	  Cecelia	 	101		Charlotte’s Web
     02	  Juliet	    102		Peter Pan
-    03	  Raymond	    103
-	04	  Nahum	    	104	
-	05	  Bradford		105	
-	06	  Lila	   	 	106	
-	07	  Van		    107	
+    03	  Raymond	    103     The Giver 
+	04	  Nahum	    	104	    The Old Man and the Sea
+	05	  Bradford		105	    Thirteen Reasons Why
+	06	  Lila	   	 	106	    The Outsiders
+	07	  Van		    107	    Number the Stars
 	08	  Francisco	    108	
 	09	  Hailey		109	
 	10	  Luis		    110	
@@ -594,7 +594,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTI1MDUxMSwyNDY5NzM3NTksLTgwNz
+eyJoaXN0b3J5IjpbLTk5NjM0OTYyOCwyNDY5NzM3NTksLTgwNz
 gyNjU5MiwxMDc0NDg1OTg5LC0xMjYzNjA3NzIxLC00MDIxOTc1
 NDksMzk5NDA1NzE4LC0xNzIyNTY3NjUwLC0xMjIzMDc5Mjg0LC
 0xOTQyMDg1ODgzLC0xMDMxNTMyOTIzLDE1OTE4ODg1NDgsMjQ1
