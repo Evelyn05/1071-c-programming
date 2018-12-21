@@ -574,11 +574,10 @@
     02	  Juliet	    102		Peter Pan				2018/09/23
     03	  Raymond	    103     The Giver 				2018/11/05
 	04	  Nahum	    	104	    The Old Man and the Sea 2018/12/19
-	05	  Bradford		105	    Thirteen Reasons Why
-	
-	06	  Lila	   	 	106	    The Outsiders
-	07	  Van		    107	    Number the Stars
-	08	  Francisco	    108	    A Wrinkle In Time
+	05	  Bradford		105	    Thirteen Reasons Why	2018/09/30
+	06	  Lila	   	 	106	    The Outsiders			2018/06/12
+	07	  Van		    107	    Number the Stars		2018/07/26
+	08	  Francisco	    108	    A Wrinkle In Time	 	2018/10/10
 	09	  Hailey		109		A List of Cages
 	10	  Luis		    110	    The Hate U Give
 					
@@ -595,7 +594,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjc3NDU1NCwyNDY5NzM3NTksLTgwNz
+eyJoaXN0b3J5IjpbMTU2OTE2OTAyNiwyNDY5NzM3NTksLTgwNz
 gyNjU5MiwxMDc0NDg1OTg5LC0xMjYzNjA3NzIxLC00MDIxOTc1
 NDksMzk5NDA1NzE4LC0xNzIyNTY3NjUwLC0xMjIzMDc5Mjg0LC
 0xOTQyMDg1ODgzLC0xMDMxNTMyOTIzLDE1OTE4ODg1NDgsMjQ1
