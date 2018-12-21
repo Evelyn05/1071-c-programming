@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include<string.h>
+#define MAX 10
 
 struct Date
 {
@@ -30,7 +31,7 @@ struct ListNode
     Date bookreturn;
     char *name;             // lotto id
     char *bookname;
-    char *booknam;
+    int tISBN;
     //Date date;   // opening date
     //int num[6];         // winning numbers
     ListNode *nextPtr; /* pointer to next node*/
@@ -57,14 +58,14 @@ void prAlist(Alist alists[])
     }
 
 }
-int borrowtimes(){
-    if(item.booknam==Alist.bookna ||item.booknam==item.bookname)
+/*int borrowtimes(){
+    if(char booknam==Alist.*bookna ||booknam==ListNode.*bookname)
             {
                 times++;
             }
 return times;
 
-}
+}*/
 /* prototypes */
 void insert( ListNodePtr *sPtr,  ListNode item );
 int del( ListNodePtr *sPtr, ListNode item );
@@ -76,12 +77,12 @@ int main( void )
 {
     ListNodePtr startPtr = NULL; /* initially there are no nodes */
     int choice;
+    char booknam;
     int times=0; /* user's choice */
     //int item; /* char entered by user */
     ListNode item;
     item.name=(char*)malloc(sizeof(char)*80);
     item.bookname=(char*)malloc(sizeof(char)*80);
-    item.booknam=(char*)malloc(sizeof(char)*80);
 
 
     instructions(); /* display the menu */
@@ -173,10 +174,14 @@ int main( void )
             break;
 
         case 4:
-            printf("Please Enter Bookname:");
-            scanf("%s",&item.booknam);
-            borrowtimes()
-            printf("%s is already borrow by %d times.\n",item.booknam,times);
+            printf("Please Enter ISBN:");
+            scanf("%d",&item.tISBN);
+             if( item.tISBN==item.bookname)
+            {
+                times++;
+            }
+
+            printf("%s is already borrow by %d times.\n",item.tISBN,times);
         } /* end switch */
 
         printf( "? " );
@@ -327,7 +332,7 @@ void printList( ListNodePtr currentPtr,ListNode item)
                 item.bookreturn.day=currentPtr->borrow.day;
             }
             printf("--> \n");
-            printf( "ISBN:%d ,Bookborrow Name:%s ,Bookborrow Date:%4d/%02d/%02d ,Bookreturn Date:%4d/%02d/%02d,Student ID:%d ,Student Name:%s \n", currentPtr->id,currentPtr->bookname, currentPtr->borrow.year,currentPtr->borrow.month,currentPtr->borrow.day,item.bookreturn.year,item.bookreturn.month,item.bookreturn.day,currentPtr->stunum,currentPtr->name);
+            printf( "ISBN:%d ,Book Name:%s ,Bookborrow Date:%4d/%02d/%02d ,Bookreturn Date:%4d/%02d/%02d,Student ID:%d ,Student Name:%s \n", currentPtr->id,currentPtr->bookname, currentPtr->borrow.year,currentPtr->borrow.month,currentPtr->borrow.day,item.bookreturn.year,item.bookreturn.month,item.bookreturn.day,currentPtr->stunum,currentPtr->name);
             currentPtr = currentPtr->nextPtr;
         } /* end while */
 
