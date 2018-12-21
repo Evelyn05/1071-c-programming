@@ -559,19 +559,21 @@
 
 ## G21
 >**output**
-
+>
+				Library Management System
+						
 	ID          ISBN
 	01			101
 	02		    102
     03			103
 	04			104	
 	05			105	
-	06				
-	07				106,
-					107
-					108
-					109
-					110
+	06			106	
+	07			107	
+	08			108	
+	09			109	
+	10			110	
+					
 				
 	
 	
@@ -579,13 +581,13 @@
 	
 	
 	
-	09
-	10
+	
+	
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTA5MTkzMywxMDc0NDg1OTg5LC0xMj
+eyJoaXN0b3J5IjpbMTIyMzUyMDQ2NiwxMDc0NDg1OTg5LC0xMj
 YzNjA3NzIxLC00MDIxOTc1NDksMzk5NDA1NzE4LC0xNzIyNTY3
 NjUwLC0xMjIzMDc5Mjg0LC0xOTQyMDg1ODgzLC0xMDMxNTMyOT
 IzLDE1OTE4ODg1NDgsMjQ1MTczNDg2LDkzODQzNDI2MywtMTMx
