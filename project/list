@@ -1,0 +1,61 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+#define MAX 10
+
+
+struct Alist{
+  char *id;
+  char *borrower;
+  char *ISBN;
+  char *bookna;
+  char *bordate;
+  char *retudate;
+};
+
+void prAlist(Alist alists[]){
+  for(int i=0;i<10;i++){
+    printf("%s    ",alists[i].id);
+    printf("%s    ",alists[i].borrower);
+    printf("%s    ",alists[i].ISBN);
+    printf("%s    ",alists[i].bookna);
+    printf("%s      ",alists[i].bordate);
+    printf("%s\n",alists[i].retudate);
+  }
+
+}
+
+int main(){
+  printf("ID    Name         ISBN   Book Name            Booknorrow Date  Bookreturn Date\n");
+  printf("\n");
+
+  Alist alist;
+  char *num[10]={"01","02","03","04","05","06","07","08","09","10"};
+  char *names[10]={"Cecelia  ","Juliet   ","Raymond  ","Nahum    ","Bradford ","Lila     ","Van      ","Francisco","Hailey   ","Luis     "};
+  char *isbn[10]={"101","102","103","104","105","106","107","108","109","110"};
+  char *book[10]={"Charlotte’s Web   ","Peter Pan          ","The Giver          ","Old Man and the Sea","Thirteen Reasons   ","The Outsiders      ","Number the Stars   ","A Wrinkle In Time  ","A List of Cages    ", "The Hate U Give    "};
+  char *date1[10]={"2018/02/08","2018/09/23","2018/11/05","2018/12/19","2018/09/30","2018/06/12","2018/07/26","2018/10/10","2018/12/01","2018/11/11"};
+  char *date2[10]={"2018/03/08","2018/10/23","2018/12/05","2019/01/19","2018/10/30","2018/07/12","2018/08/26","2018/01/10","2019/01/01","2018/12/11"};
+
+  alist.id = (char *)malloc(sizeof(50));
+  alist.borrower = (char *)malloc(sizeof(50));
+  alist.ISBN = (char *)malloc(sizeof(50));
+  alist.bookna = (char *)malloc(sizeof(50));
+  alist.bordate = (char *)malloc(sizeof(50));
+  alist.retudate = (char *)malloc(sizeof(50));
+
+  Alist alists[MAX];
+
+  for(int i=0;i<MAX;i++){
+    alists[i].id = num[i];
+    alists[i].borrower = names[i];
+    alists[i].ISBN = isbn[i];
+    alists[i].bookna = book[i];
+    alists[i].bordate = date1[i];
+    alists[i].retudate = date2[i];
+  }
+  prAlist(alists);
+
+  return 0;
+}
