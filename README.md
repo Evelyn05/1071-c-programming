@@ -579,8 +579,7 @@
 	07	  Van		    107	    Number the Stars		2018/07/26		2018/08/26
 	08	  Francisco	    108	    A Wrinkle In Time	 	2018/10/10		2018/11/10
 	09	  Hailey		109		A List of Cages			2018/12/01		2018/01/01
-	10	  Luis		    110	    e ate 			
-2018/1/11		2018/12/11
+	10	  Luis		    110	    e ate 			        2018/01/11		2018/12/11
 
 	 2
 	 Enter ISBN : 111
@@ -602,8 +601,6 @@
 	111 deleted.
 	List is empty.
 	?
-	 : 
-	 33
 	 4
 	 Please Enter Bookname:Peter Pan
 	 Peter Pan is already borrow by 2 times.
@@ -622,7 +619,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDg3MzIxNiwtMzI4MjA2MDU1LDE2OT
+eyJoaXN0b3J5IjpbMTExMDI5OTIyNCwtMzI4MjA2MDU1LDE2OT
 AxNTQsLTQ4NTEyODU5NywtMTY4NTU1MjU5NiwtMTQwMzA1OTU4
 MiwtODg1NjU2MTMsMTAwNzY3MDgzOSwyNDY5NzM3NTksLTgwNz
 gyNjU5MiwxMDc0NDg1OTg5LC0xMjYzNjA3NzIxLC00MDIxOTc1
