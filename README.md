@@ -579,19 +579,20 @@
 	07	  Van		    107	    Number the Stars		2018/07/26		2018/08/26
 	08	  Francisco	    108	    A Wrinkle In Time	 	2018/10/10		2018/11/10
 	09	  Hailey		109		A List of Cages			2018/12/01		2018/01/01
-	10	  Luis		    110	    e ate 			2018/1/11		2018/12/11
+	10	  Luis		    110	    e ate 			
+2018/1/11		2018/12/11
 
 	 2
 	 Enter ISBN : 111
 	 Enter student ID : 11
 	 Enter Student name : Amy
 	 Enter Bookname :  Look at Me
-	 Enter Bookborrow Date : 2019//
+	 Enter Bookborrow Date : 2019 1 1
 
      The list is : 
      -->
-	 ISBN : 111 ,   BookName : 	 Look at Me ,
-	 Bookoo 	  19/01/01 , Bookreturn Date : 2019/02/1 
+	 ISBN : 111 ,   BookName : 	 Look at Me
+	 Bookborrow : 2019/01/01 , Bookreturn Date : 2019/02/01 
 	 Student ID : 11 , Student Name : Amy
 	 NULL
 	?
@@ -621,11 +622,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODIwNjA1NSwxNjkwMTU0LC00ODUxMj
-g1OTcsLTE2ODU1NTI1OTYsLTE0MDMwNTk1ODIsLTg4NTY1NjEz
-LDEwMDc2NzA4MzksMjQ2OTczNzU5LC04MDc4MjY1OTIsMTA3ND
-Q4NTk4OSwtMTI2MzYwNzcyMSwtNDAyMTk3NTQ5LDM5OTQwNTcx
-OCwtMTcyMjU2NzY1MCwtMTIyMzA3OTI4NCwtMTk0MjA4NTg4My
-wtMTAzMTUzMjkyMywxNTkxODg4NTQ4LDI0NTE3MzQ4Niw5Mzg0
-MzQyNjNdfQ==
+eyJoaXN0b3J5IjpbLTk5MDg3MzIxNiwtMzI4MjA2MDU1LDE2OT
+AxNTQsLTQ4NTEyODU5NywtMTY4NTU1MjU5NiwtMTQwMzA1OTU4
+MiwtODg1NjU2MTMsMTAwNzY3MDgzOSwyNDY5NzM3NTksLTgwNz
+gyNjU5MiwxMDc0NDg1OTg5LC0xMjYzNjA3NzIxLC00MDIxOTc1
+NDksMzk5NDA1NzE4LC0xNzIyNTY3NjUwLC0xMjIzMDc5Mjg0LC
+0xOTQyMDg1ODgzLC0xMDMxNTMyOTIzLDE1OTE4ODg1NDgsMjQ1
+MTczNDg2XX0=
 -->
