@@ -568,17 +568,17 @@
 		4.Borrow times
 		5.ExiT
 	 1
-	ID	   Name 			ISBN		
+	ID	   Name     	ISBN		
 	     
-	01	  Cecelia	 101
-	02	  Juliet	            102
-    03	  Raymond		        103
+	01	  Cecelia	 	101
+    02	  Juliet	    102
+    03	  Raymond	    103
 	04	  Nahum	    	104	
-	05	  Bradford	    	105	
+	05	  Bradford		105	
 	06	  Lila	   	 	106	
-	07	  Van		    	107	
-	08	  Francisco		    	108	
-	09	  Hailey		    	109	
+	07	  Van		    107	
+	08	  Francisco	    108	
+	09	  Hailey		109	
 	10	  Luis		    	110	
 					
 				
@@ -594,11 +594,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzUyNjk3LDI0Njk3Mzc1OSwtODA3OD
-I2NTkyLDEwNzQ0ODU5ODksLTEyNjM2MDc3MjEsLTQwMjE5NzU0
-OSwzOTk0MDU3MTgsLTE3MjI1Njc2NTAsLTEyMjMwNzkyODQsLT
-E5NDIwODU4ODMsLTEwMzE1MzI5MjMsMTU5MTg4ODU0OCwyNDUx
-NzM0ODYsOTM4NDM0MjYzLC0xMzE5NjkwNzY2LC0xODc5Mzg5MD
-UzLDM1OTk0MTk0LDU2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQx
-MDQ4NDBdfQ==
+eyJoaXN0b3J5IjpbLTIxMjU1NTI5NDMsMjQ2OTczNzU5LC04MD
+c4MjY1OTIsMTA3NDQ4NTk4OSwtMTI2MzYwNzcyMSwtNDAyMTk3
+NTQ5LDM5OTQwNTcxOCwtMTcyMjU2NzY1MCwtMTIyMzA3OTI4NC
+wtMTk0MjA4NTg4MywtMTAzMTUzMjkyMywxNTkxODg4NTQ4LDI0
+NTE3MzQ4Niw5Mzg0MzQyNjMsLTEzMTk2OTA3NjYsLTE4NzkzOD
+kwNTMsMzU5OTQxOTQsNTY3MjAzMjIsLTIxMzgxNDQ4MzQsMTUz
+NDEwNDg0MF19
 -->
