@@ -579,16 +579,17 @@
 	07	  Van		    107	    Number the Stars		2018/07/26		2018/08/26
 	08	  Francisco	    108	    A Wrinkle In Time	 	2018/10/10		2018/11/10
 	09	  Hailey		109		A List of Cages			2018/12/01		2018/01/01
-	10	  Luis		    110	    The Hate U Give			2018/11/11		2018/12/11
+	10	  Luis		    110	    e ate  			201811/11		2018/12/11
 
 	 2
 	 Enter ISBN : 111
 	 Enter student ID : 11
 	 Enter Student name : Amy
-	 Enter Bookname :  Look at Me
-	 Enter Bookborrow Date : 2018/12/1
+	 Enter Bookname :  Look at MThe Hate U Give
+	 Enter Bookborrow Date : 2018/12/1/11
 	 
 	 33
+	 4
 	 
 	 Please Enter Bookname:Peter Pan
 	 Peter Pan is already borrow by 2 times.
@@ -607,11 +608,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTY2NTMyOSwtMTY4NTU1MjU5NiwtMT
-QwMzA1OTU4MiwtODg1NjU2MTMsMTAwNzY3MDgzOSwyNDY5NzM3
-NTksLTgwNzgyNjU5MiwxMDc0NDg1OTg5LC0xMjYzNjA3NzIxLC
-00MDIxOTc1NDksMzk5NDA1NzE4LC0xNzIyNTY3NjUwLC0xMjIz
-MDc5Mjg0LC0xOTQyMDg1ODgzLC0xMDMxNTMyOTIzLDE1OTE4OD
-g1NDgsMjQ1MTczNDg2LDkzODQzNDI2MywtMTMxOTY5MDc2Niwt
-MTg3OTM4OTA1M119
+eyJoaXN0b3J5IjpbLTQzNzQ0OTQ0NywxODk5NjY1MzI5LC0xNj
+g1NTUyNTk2LC0xNDAzMDU5NTgyLC04ODU2NTYxMywxMDA3Njcw
+ODM5LDI0Njk3Mzc1OSwtODA3ODI2NTkyLDEwNzQ0ODU5ODksLT
+EyNjM2MDc3MjEsLTQwMjE5NzU0OSwzOTk0MDU3MTgsLTE3MjI1
+Njc2NTAsLTEyMjMwNzkyODQsLTE5NDIwODU4ODMsLTEwMzE1Mz
+I5MjMsMTU5MTg4ODU0OCwyNDUxNzM0ODYsOTM4NDM0MjYzLC0x
+MzE5NjkwNzY2XX0=
 -->
