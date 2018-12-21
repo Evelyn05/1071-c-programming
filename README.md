@@ -586,12 +586,12 @@
 	 Enter student ID : 11
 	 Enter Student name : Amy
 	 Enter Bookname :  Look at Me
-	 Enter Bookborrow Date : 2019/1/1
+	 Enter Bookborrow Date : 2019//
 
      The list is : 
      -->
-	 ISBN : 111 ,   BookName : Look at Me ,
-	 Bookborrow 	Date : 2019/01/01 , Bookreturn Date : 2019/02/1 
+	 ISBN : 111 ,   BookName : 	 Look at Me ,
+	 Bookoo 	  19/01/01 , Bookreturn Date : 2019/02/1 
 	 Student ID : 11 , Student Name : Amy
 	 NULL
 	?
@@ -601,7 +601,9 @@
 	111 deleted.
 	List is empty.
 	?
-	4
+	 : 
+	 33
+	 4
 	 Please Enter Bookname:Peter Pan
 	 Peter Pan is already borrow by 2 times.
 	 Please Enter Bookname:
@@ -619,11 +621,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDE1NCwtNDg1MTI4NTk3LC0xNjg1NT
-UyNTk2LC0xNDAzMDU5NTgyLC04ODU2NTYxMywxMDA3NjcwODM5
-LDI0Njk3Mzc1OSwtODA3ODI2NTkyLDEwNzQ0ODU5ODksLTEyNj
-M2MDc3MjEsLTQwMjE5NzU0OSwzOTk0MDU3MTgsLTE3MjI1Njc2
-NTAsLTEyMjMwNzkyODQsLTE5NDIwODU4ODMsLTEwMzE1MzI5Mj
-MsMTU5MTg4ODU0OCwyNDUxNzM0ODYsOTM4NDM0MjYzLC0xMzE5
-NjkwNzY2XX0=
+eyJoaXN0b3J5IjpbLTMyODIwNjA1NSwxNjkwMTU0LC00ODUxMj
+g1OTcsLTE2ODU1NTI1OTYsLTE0MDMwNTk1ODIsLTg4NTY1NjEz
+LDEwMDc2NzA4MzksMjQ2OTczNzU5LC04MDc4MjY1OTIsMTA3ND
+Q4NTk4OSwtMTI2MzYwNzcyMSwtNDAyMTk3NTQ5LDM5OTQwNTcx
+OCwtMTcyMjU2NzY1MCwtMTIyMzA3OTI4NCwtMTk0MjA4NTg4My
+wtMTAzMTUzMjkyMywxNTkxODg4NTQ4LDI0NTE3MzQ4Niw5Mzg0
+MzQyNjNdfQ==
 -->
