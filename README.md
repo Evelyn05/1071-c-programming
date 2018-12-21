@@ -568,10 +568,10 @@
 		4.Borrow times
 		5.ExiT
 	 1
-	ID	   Name     	ISBN		
+	ID	   Name     	ISBN		Book
 	     
-	01	  Cecelia	 	101
-    02	  Juliet	    102
+	01	  Cecelia	 	101		Charlotte’s Web
+    02	  Juliet	    102		Peter Pan
     03	  Raymond	    103
 	04	  Nahum	    	104	
 	05	  Bradford		105	
@@ -579,7 +579,7 @@
 	07	  Van		    107	
 	08	  Francisco	    108	
 	09	  Hailey		109	
-	10	  Luis		    	110	
+	10	  Luis		    110	
 					
 				
 	
@@ -594,11 +594,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjU1NTI5NDMsMjQ2OTczNzU5LC04MD
-c4MjY1OTIsMTA3NDQ4NTk4OSwtMTI2MzYwNzcyMSwtNDAyMTk3
-NTQ5LDM5OTQwNTcxOCwtMTcyMjU2NzY1MCwtMTIyMzA3OTI4NC
-wtMTk0MjA4NTg4MywtMTAzMTUzMjkyMywxNTkxODg4NTQ4LDI0
-NTE3MzQ4Niw5Mzg0MzQyNjMsLTEzMTk2OTA3NjYsLTE4NzkzOD
-kwNTMsMzU5OTQxOTQsNTY3MjAzMjIsLTIxMzgxNDQ4MzQsMTUz
-NDEwNDg0MF19
+eyJoaXN0b3J5IjpbMjA4NTI1MDUxMSwyNDY5NzM3NTksLTgwNz
+gyNjU5MiwxMDc0NDg1OTg5LC0xMjYzNjA3NzIxLC00MDIxOTc1
+NDksMzk5NDA1NzE4LC0xNzIyNTY3NjUwLC0xMjIzMDc5Mjg0LC
+0xOTQyMDg1ODgzLC0xMDMxNTMyOTIzLDE1OTE4ODg1NDgsMjQ1
+MTczNDg2LDkzODQzNDI2MywtMTMxOTY5MDc2NiwtMTg3OTM4OT
+A1MywzNTk5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgzNCwxNTM0
+MTA0ODQwXX0=
 -->
