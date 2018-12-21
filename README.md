@@ -568,11 +568,11 @@
 		4.Borrow times
 		5.ExiT
 	 1
-	ID	   Name     	ISBN		Book			    Borrowdate	Returnda	
+	ID	   Name     	ISBN		Book			    Borrowdate		Returndate	
 	     
-	01	  Cecelia	 	101		Charlotte’s Web			2018/02/08
-    02	  Juliet	    102		Peter Pan				2018/09/23
-    03	  Raymond	    103     The Giver 				2018/11/05
+	01	  Cecelia	 	101		Charlotte’s Web			2018/02/08		2018/03/08
+    02	  Juliet	    102		Peter Pan				2018/09/23		2018/10/23
+    03	  Raymond	    103     The Giver 				2018/11/05		2018/12/05
 	04	  Nahum	    	104	    The Old Man and the Sea 2018/12/19
 	05	  Bradford		105	    Thirteen Reasons Why	2018/09/30
 	06	  Lila	   	 	106	    The Outsiders			2018/06/12
@@ -594,11 +594,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxODE4NTMzLDI0Njk3Mzc1OSwtODA3OD
-I2NTkyLDEwNzQ0ODU5ODksLTEyNjM2MDc3MjEsLTQwMjE5NzU0
-OSwzOTk0MDU3MTgsLTE3MjI1Njc2NTAsLTEyMjMwNzkyODQsLT
-E5NDIwODU4ODMsLTEwMzE1MzI5MjMsMTU5MTg4ODU0OCwyNDUx
-NzM0ODYsOTM4NDM0MjYzLC0xMzE5NjkwNzY2LC0xODc5Mzg5MD
-UzLDM1OTk0MTk0LDU2NzIwMzIyLC0yMTM4MTQ0ODM0LDE1MzQx
-MDQ4NDBdfQ==
+eyJoaXN0b3J5IjpbMTM3ODU1MzI3MCwyNDY5NzM3NTksLTgwNz
+gyNjU5MiwxMDc0NDg1OTg5LC0xMjYzNjA3NzIxLC00MDIxOTc1
+NDksMzk5NDA1NzE4LC0xNzIyNTY3NjUwLC0xMjIzMDc5Mjg0LC
+0xOTQyMDg1ODgzLC0xMDMxNTMyOTIzLDE1OTE4ODg1NDgsMjQ1
+MTczNDg2LDkzODQzNDI2MywtMTMxOTY5MDc2NiwtMTg3OTM4OT
+A1MywzNTk5NDE5NCw1NjcyMDMyMiwtMjEzODE0NDgzNCwxNTM0
+MTA0ODQwXX0=
 -->
