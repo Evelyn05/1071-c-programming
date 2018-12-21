@@ -232,7 +232,7 @@ void printList( ListNodePtr currentPtr ,ListNode item)
         item.bookreturn.month=currentPtr->borrow.month+1;
         item.bookreturn.day=currentPtr->borrow.day;}
         printf("--> \n");
-         printf( "ISBN:%d ,BookName:%s ,Bookborrow Date:%4d/%02d/%02d ,Bookreturn Date:%4d/%02d/%02d,Student ID:%d ,Student Name:%s \n" , currentPtr->id,currentPtr->bookname, currentPtr->borrow.year,currentPtr->borrow.month,currentPtr->borrow.day,item.bookreturn.year,item.bookreturn.month,item.bookreturn.day,currentPtr->stunum,currentPtr->name);
+         printf( "ISBN:%d ,BookName:%s \nBookborrow Date:%4d/%02d/%02d ,Bookreturn Date:%4d/%02d/%02d\nStudent ID:%d ,Student Name:%s \n" , currentPtr->id,currentPtr->bookname, currentPtr->borrow.year,currentPtr->borrow.month,currentPtr->borrow.day,item.bookreturn.year,item.bookreturn.month,item.bookreturn.day,currentPtr->stunum,currentPtr->name);
          currentPtr = currentPtr->nextPtr;
       } /* end while */
 
