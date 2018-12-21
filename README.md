@@ -573,21 +573,24 @@
 	01	  Cecelia	 	101		Charlotte’s Web			2018/02/08		2018/03/08
     02	  Juliet	    102		Peter Pan				2018/09/23		2018/10/23
     03	  Raymond	    103     The Giver 				2018/11/05		2018/12/05
-	04	  Nahum	    	104	    The Old Man and the Sea 2018/12/19	 	2018/1/19
+	04	  Nahum	    	104	    The Old Man and the Sea 201/1/1	 	2018/1/19
 	05	  Bradford		105	    Thirteen Reasons Why	2018/09/30		2018/10/30
 	06	  Lila	   	 	106	    The Outsiders			2018/06/12		2018/07/12
 	07	  Van		    107	    Number the Stars		2018/07/26		2018/08/26
 	08	  Francisco	    108	    A Wrinkle In Time	 	2018/10/10		2018/11/10
 	09	  Hailey		109		A List of Cages			2018/12/01		2018/01/01
-	10	  Luis		    110	    e ate  			201811/11		2018/12/11
+	10	  Luis		    110	    e ate 			2018/1/11		2018/12/11
 
 	 2
 	 Enter ISBN : 111
 	 Enter student ID : 11
 	 Enter Student name : Amy
 	 Enter Bookname :  Look at MThe Hate U Give
-	 Enter Bookborrow Date : 2018/12/1/11
-	 
+	 Enter Bookborrow Date : 20189/12/1/11
+
+     The list is : 
+     -->
+     ISBN : 111 , Bookborrow  	 
 	 33
 	 4
 	 
@@ -608,7 +611,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzQ0OTQ0NywxODk5NjY1MzI5LC0xNj
+eyJoaXN0b3J5IjpbMjA0MzEzODIwNywtNDM3NDQ5NDQ3LC0xNj
 g1NTUyNTk2LC0xNDAzMDU5NTgyLC04ODU2NTYxMywxMDA3Njcw
 ODM5LDI0Njk3Mzc1OSwtODA3ODI2NTkyLDEwNzQ0ODU5ODksLT
 EyNjM2MDc3MjEsLTQwMjE5NzU0OSwzOTk0MDU3MTgsLTE3MjI1
