@@ -55,10 +55,10 @@ int main( void )
    scanf( "%d", &choice );
 
    /* loop while user does not choose 3 */
-   while ( choice != 3 ) {
+   while ( choice != 5 ) {
 
       switch ( choice ) {
-         case 1:
+         case 2:
             printf( "Enter ISBN: " );
             scanf( "\n%d", &item.id );
             printf("Enter student ID: ");
@@ -75,7 +75,7 @@ int main( void )
             insert( &startPtr, item ); /* insert item in list */
             printList( startPtr ,item);
             break;
-         case 2:
+         case 3:
             /* if list is not empty */
             if ( !isEmpty( startPtr ) ) {
                printf( "Enter id to be deleted: " );
@@ -112,10 +112,12 @@ int main( void )
 /* display program instructions to user */
 void instructions( void )
 {
-   printf( "Enter your choice:\n"
-      "   1 to insert an element into the list.\n"
-      "   2 to delete an element from the list.\n"
-      "   3 to end.\n" );
+   printf("Library Management System\n");
+    printf("1.All List\n");
+    printf("2.Add List\n");
+    printf("3.Delete List\n");
+    printf("4.Borrow times\n");
+    printf("5.Exit\n");
 } /* end function instructions */
 
 /* Insert a new value into the list in sorted order */
