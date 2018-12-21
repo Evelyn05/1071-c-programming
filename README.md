@@ -559,21 +559,22 @@
 
 ## G21
 >**output**
-
-	01		101
-	03				102
-					103
-					104
-					105
+	
+	01			101
+	02		    102
+    03			103
+	04			104	
+	05			105	
+					
 					106,
 					107
 					108
 					109
 					110
-				02
+				
 	
-	04
-	05
+	
+	
 	06
 	07
 	08
@@ -583,7 +584,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTgwMTYwMiwtMTI2MzYwNzcyMSwtND
+eyJoaXN0b3J5IjpbMTIyNjM0MzU0NCwtMTI2MzYwNzcyMSwtND
 AyMTk3NTQ5LDM5OTQwNTcxOCwtMTcyMjU2NzY1MCwtMTIyMzA3
 OTI4NCwtMTk0MjA4NTg4MywtMTAzMTUzMjkyMywxNTkxODg4NT
 Q4LDI0NTE3MzQ4Niw5Mzg0MzQyNjMsLTEzMTk2OTA3NjYsLTE4
