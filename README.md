@@ -582,11 +582,11 @@
 	10	  Luis		    110	    The Hate U Give			2018/11/11		2018/12/11
 
 	 2
-	 Enter ISBN : 1:101
-	 Enter student ID : 10
-	 Enter Student name : Luis
-	 Enter Bookname :  The Hate U Give
-	 Enter Bookborrow Date : 2018/11/11
+	 Enter ISBN : 111
+	 Enter student ID : 11
+	 Enter Student name : Amy
+	 Enter Bookname :  Look at Me
+	 Enter Bookborrow Date : 2018/12/1
 	 
 	 33
 	 
@@ -607,11 +607,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc5NzgwODUsLTE2ODU1NTI1OTYsLT
-E0MDMwNTk1ODIsLTg4NTY1NjEzLDEwMDc2NzA4MzksMjQ2OTcz
-NzU5LC04MDc4MjY1OTIsMTA3NDQ4NTk4OSwtMTI2MzYwNzcyMS
-wtNDAyMTk3NTQ5LDM5OTQwNTcxOCwtMTcyMjU2NzY1MCwtMTIy
-MzA3OTI4NCwtMTk0MjA4NTg4MywtMTAzMTUzMjkyMywxNTkxOD
-g4NTQ4LDI0NTE3MzQ4Niw5Mzg0MzQyNjMsLTEzMTk2OTA3NjYs
-LTE4NzkzODkwNTNdfQ==
+eyJoaXN0b3J5IjpbMTg5OTY2NTMyOSwtMTY4NTU1MjU5NiwtMT
+QwMzA1OTU4MiwtODg1NjU2MTMsMTAwNzY3MDgzOSwyNDY5NzM3
+NTksLTgwNzgyNjU5MiwxMDc0NDg1OTg5LC0xMjYzNjA3NzIxLC
+00MDIxOTc1NDksMzk5NDA1NzE4LC0xNzIyNTY3NjUwLC0xMjIz
+MDc5Mjg0LC0xOTQyMDg1ODgzLC0xMDMxNTMyOTIzLDE1OTE4OD
+g1NDgsMjQ1MTczNDg2LDkzODQzNDI2MywtMTMxOTY5MDc2Niwt
+MTg3OTM4OTA1M119
 -->
