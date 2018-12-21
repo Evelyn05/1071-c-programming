@@ -570,10 +570,10 @@
 	 1
 	ID	   Name     	ISBN		Book			    Borrowdate
 	     
-	01	  Cecelia	 	101		Charlotte’s Web
-    02	  Juliet	    102		Peter Pan
-    03	  Raymond	    103     The Giver 
-	04	  Nahum	    	104	    The Old Man and the Sea
+	01	  Cecelia	 	101		Charlotte’s Web			2018/02/08
+    02	  Juliet	    102		Peter Pan				2018/09/23
+    03	  Raymond	    103     The Giver 				2018/11/05
+	04	  Nahum	    	104	    The Old Man and the Sea 
 	05	  Bradford		105	    Thirteen Reasons Why
 	06	  Lila	   	 	106	    The Outsiders
 	07	  Van		    107	    Number the Stars
@@ -594,7 +594,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzE0MTczMiwyNDY5NzM3NTksLTgwNz
+eyJoaXN0b3J5IjpbLTU5NDU3ODUyMCwyNDY5NzM3NTksLTgwNz
 gyNjU5MiwxMDc0NDg1OTg5LC0xMjYzNjA3NzIxLC00MDIxOTc1
 NDksMzk5NDA1NzE4LC0xNzIyNTY3NjUwLC0xMjIzMDc5Mjg0LC
 0xOTQyMDg1ODgzLC0xMDMxNTMyOTIzLDE1OTE4ODg1NDgsMjQ1
