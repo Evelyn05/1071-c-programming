@@ -195,7 +195,11 @@ int main( void )
             if(leap(year2))m[1]++;
         for(int i=0;i<month2-1;i++)
             total2+=m[i];
-            days=(total2+day2)-(total1+day1);
+            if(year2>year1)
+
+            days=(total2+day2+365)-(total1+day1);
+            else
+                 days=(total2+day2)-(total1+day1);
 
 
         printf("%d days passed since %d/%02d/%02d.\n",days,year1,month1,day1);
@@ -367,4 +371,3 @@ void printList( ListNodePtr currentPtr ,ListNode item)
  * consequential damages in connection with, or arising out of, the       *
  * furnishing, performance, or use of these programs.                     *
  *************************************************************************/
-
