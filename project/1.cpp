@@ -41,7 +41,7 @@ struct ListNode {
     ListNode *nextPtr; /* pointer to next node*/
 }; /* end structure listNode */
 struct Borrow{
-    int *ISBN;
+    char *ISBN;
 };
 /* self-referential structure */
 /*struct ListNode {
@@ -58,14 +58,25 @@ int del( ListNodePtr *sPtr, ListNode item );
 int isEmpty( ListNodePtr sPtr );
 void printList( ListNodePtr currentPtr ,ListNode item);
 void instructions( void );
+int leap(int year1){
+    if((year1%4==0 && year1%100!=0)||year1%400==0)
+        return 1;
+    else
+        return 0;
+
+    }
 
 int main( void )
 {
    ListNodePtr startPtr = NULL; /* initially there are no nodes */
    int choice; /* user's choice */
    Borrow borrow;
-   borrow.ISBN=(int *)malloc(sizeof(int)*80);
+   int times=0;
    int a=0;
+   int year1,month1,day1,year2,month2,day2;
+   int days,money;
+   int total1=0,total2=0;;
+   int m[]={31,28,31,30,31,30,31,31,30,31,30,31};
    //int item; /* char entered by user */
    ListNode item;
    item.name=(char*)malloc(sizeof(char)*80);
@@ -74,7 +85,7 @@ int main( void )
   char *num[10]={"01","02","03","04","05","06","07","08","09","10"};
   char *names[10]={"Cecelia  ","Juliet   ","Raymond  ","Nahum    ","Bradford ","Lila     ","Van      ","Francisco","Hailey   ","Luis     "};
   char *isbn[10]={"101","102","103","104","105","106","107","108","109","110"};
-  char *book[10]={"Charlotte¡¦s Web   ","Peter Pan          ","The Giver          ","Old Man and the Sea","Thirteen Reasons   ","The Outsiders      ","Number the Stars   ","A Wrinkle In Time  ","A List of Cages    ", "The Hate U Give    "};
+  char *book[10]={"CharlotteÂ¡Â¦s Web   ","Peter Pan          ","The Giver          ","Old Man and the Sea","Thirteen Reasons   ","The Outsiders      ","Number the Stars   ","A Wrinkle In Time  ","A List of Cages    ", "The Hate U Give    "};
   char *date1[10]={"2018/02/08","2018/09/23","2018/11/05","2018/12/19","2018/09/30","2018/06/12","2018/07/26","2018/10/10","2018/12/01","2018/11/11"};
   char *date2[10]={"2018/03/08","2018/10/23","2018/12/05","2019/01/19","2018/10/30","2018/07/12","2018/08/26","2018/01/10","2019/01/01","2018/12/11"};
 
@@ -86,14 +97,15 @@ int main( void )
   alist.retudate = (char *)malloc(sizeof(50));
 
   Alist alists[MAX];
-
+  char ISBN[10]={1};
+  borrow.ISBN=(char *)malloc(sizeof(char)*80);
 
    instructions(); /* display the menu */
    printf( "? " );
    scanf( "%d", &choice );
 
    /* loop while user does not choose 3 */
-   while ( choice != 5 ) {
+   while ( choice != 6 ) {
 
       switch ( choice ) {
       case 1:
@@ -135,6 +147,7 @@ int main( void )
             if ( !isEmpty( startPtr ) ) {
                printf( "Enter ISBN to be deleted: " );
                scanf( "\n%d", &item.id );
+               a--;
 
 
                /* if character is found, remove it */
@@ -152,19 +165,50 @@ int main( void )
 
             break;
          case 4:
-            printf("Please enter ISBN:");
-            scanf("%d",borrow.ISBN);
-            /*if(borrow.ISBN==item.id)
-               times++;
-                else
-                    times=0;*/
-            printf("This book is already borrow by %d times.\n",a);
+           // printf("Please enter ISBN:");
+           // scanf("%d",borrow.ISBN);
+            //if(item.id<=110)
+               // printf("This book is already borrow by 1 times.\n");
+
+               // else if(borrow.ISBN==item.id ||borrow.ISBN ==alist.id)
+                //times++;
+    times=10+a;
+            printf("There are %d books are borrowwd.\n",times);
             break;
 
         // default:
            // printf( "Invalid choice.\n\n" );
             instructions();
             break;
+         case 5:
+            printf("Enter borrow date:");
+            scanf("%d %d %d",&year1,&month1,&day1);
+            printf("Enter today:");
+            scanf("%d %d %d",&year2,&month2,&day2);
+
+            m[1]=28;
+        total1=0;
+        total2=0;
+        if(leap(year1))m[1]++;
+        for(int i=0;i<month1-1;i++)
+            total1+=m[i];
+            if(leap(year2))m[1]++;
+        for(int i=0;i<month2-1;i++)
+            total2+=m[i];
+            days=(total2+day2)-(total1+day1);
+
+
+        printf("%d days passed since %d/%02d/%02d.\n",days,year1,month1,day1);
+            if(days<=31){
+                printf("You don't need to pay.\n");
+            }else if(days>31){
+
+                printf("You have been already delayed %d days.\n",days-31);
+                money=(days-31)*5;
+                printf("So you need to pay %d dollars.\n",money);
+            }break;
+
+
       } /* end switch */
 
       printf( "? " );
@@ -182,8 +226,9 @@ void instructions( void )
     printf("1.All List\n");
     printf("2.Add List\n");
     printf("3.Delete List\n");
-    printf("4.Borrow times\n");
-    printf("5.Exit\n");
+    printf("4.How many books are borrowed?\n");
+    printf("5.How much fine you need to pay if overdued?\n");
+    printf("6.Exit\n");
 } /* end function instructions */
 
 /* Insert a new value into the list in sorted order */
@@ -322,3 +367,4 @@ void printList( ListNodePtr currentPtr ,ListNode item)
  * consequential damages in connection with, or arising out of, the       *
  * furnishing, performance, or use of these programs.                     *
  *************************************************************************/
+
