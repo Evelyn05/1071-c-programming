@@ -85,16 +85,16 @@ int main( void )
   char *num[10]={"01","02","03","04","05","06","07","08","09","10"};
   char *names[10]={"Cecelia  ","Juliet   ","Raymond  ","Nahum    ","Bradford ","Lila     ","Van      ","Francisco","Hailey   ","Luis     "};
   char *isbn[10]={"101","102","103","104","105","106","107","108","109","110"};
-  char *book[10]={"Charlotte¡¦s Web   ","Peter Pan          ","The Giver          ","Old Man and the Sea","Thirteen Reasons   ","The Outsiders      ","Number the Stars   ","A Wrinkle In Time  ","A List of Cages    ", "The Hate U Give    "};
+  char *book[10]={"Charlotte's Web    ","Peter Pan          ","The Giver          ","Old Man and the Sea","Thirteen Reasons   ","The Outsiders      ","Number the Stars   ","A Wrinkle In Time  ","A List of Cages    ", "The Hate U Give    "};
   char *date1[10]={"2018/02/08","2018/09/23","2018/11/05","2018/12/19","2018/09/30","2018/06/12","2018/07/26","2018/10/10","2018/12/01","2018/11/11"};
   char *date2[10]={"2018/03/08","2018/10/23","2018/12/05","2019/01/19","2018/10/30","2018/07/12","2018/08/26","2018/01/10","2019/01/01","2018/12/11"};
 
-  alist.id = (char *)malloc(sizeof(50));
+  /*alist.id = (char *)malloc(sizeof(50));
   alist.borrower = (char *)malloc(sizeof(50));
   alist.ISBN = (char *)malloc(sizeof(50));
   alist.bookna = (char *)malloc(sizeof(50));
   alist.bordate = (char *)malloc(sizeof(50));
-  alist.retudate = (char *)malloc(sizeof(50));
+  alist.retudate = (char *)malloc(sizeof(50));*/
 
   Alist alists[MAX];
   char ISBN[10]={1};
@@ -231,7 +231,7 @@ void instructions( void )
     printf("2.Add List\n");
     printf("3.Delete List\n");
     printf("4.How many books are borrowed?\n");
-    printf("5.How much fine you need to pay if overdued?\n");
+    printf("5.How much fine you need to pay if overdue?\n");
     printf("6.Exit\n");
 } /* end function instructions */
 
@@ -371,3 +371,4 @@ void printList( ListNodePtr currentPtr ,ListNode item)
  * consequential damages in connection with, or arising out of, the       *
  * furnishing, performance, or use of these programs.                     *
  *************************************************************************/
+
